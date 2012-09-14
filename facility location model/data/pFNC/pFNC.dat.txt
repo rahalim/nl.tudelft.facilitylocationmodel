@@ -1,0 +1,2687 @@
+Clients 47
+Depots 25
+BoundaryPoints  163
+R factor 2.141695
+Demand [1 ] 692.959
+Demand [2 ] 4579.166
+Demand [3 ] 6124.705
+Demand [4 ] 297.088
+Demand [5 ] 405.515
+Demand [6 ] 661.408
+Demand [7 ] 2505.782
+Demand [8 ] 1151.201
+Demand [9 ] 1151.696
+Demand [10 ] 418.359
+Demand [11 ] 2804.463
+Demand [12 ] 5105.271
+Demand [13 ] 4695.691
+Demand [14 ] 1334.269
+Demand [15 ] 11244.532
+Demand [16 ] 900.433
+Demand [17 ] 1119.847
+Demand [18 ] 2843.681
+Demand [19 ] 3124.059
+Demand [20 ] 5914.114
+Demand [21 ] 11113.974
+Demand [22 ] 6454.774
+Demand [23 ] 10944.309
+Demand [24 ] 24913.973
+Demand [25 ] 3363.724
+Demand [26 ] 6181.777
+Demand [27 ] 7170.524
+Demand [28 ] 8580.03
+Demand [29 ] 8598.944
+Demand [30 ] 12431.895
+Demand [31 ] 400.288
+Demand [32 ] 4151.74
+Demand [33 ] 8039.449
+Demand [34 ] 10653.551
+Demand [35 ] 581.597
+Demand [36 ] 2214.138
+Demand [37 ] 3309.567
+Demand [38 ] 11118.772
+Demand [39 ] 2132.574
+Demand [40 ] 6970.437
+Demand [41 ] 8851.077
+Demand [42 ] 3453.766
+Demand [43 ] 3405.472
+Demand [44 ] 317.774
+Demand [45 ] 5067.91
+Demand [46 ] 8929.185
+Demand [47 ] 7030.299
+Capacity [1 ] 18485.2
+Capacity [2 ] 26320
+Capacity [3 ] 15320
+Capacity [4 ] 4184.8
+Capacity [5 ] 84640
+Capacity [6 ] 11312.8
+Capacity [7 ] 18000
+Capacity [8 ] 2880
+Capacity [9 ] 7200
+Capacity [10 ] 4796.4
+Capacity [11 ] 9539.2
+Capacity [12 ] 36425.2
+Capacity [13 ] 8400
+Capacity [14 ] 15200
+Capacity [15 ] 24000
+Capacity [16 ] 34000
+Capacity [17 ] 114662.8
+Capacity [18 ] 12662.4
+Capacity [19 ] 4500
+Capacity [20 ] 14400
+Capacity [21 ] 20679.2
+Capacity [22 ] 3080
+Capacity [23 ] 4400
+Capacity [24 ] 15120
+Capacity [25 ] 11200
+FixedCost [1 ] 411597067
+FixedCost [2 ] 458269279
+FixedCost [3 ] 392741846
+FixedCost [4 ] 326409021
+FixedCost [5 ] 805683814
+FixedCost [6 ] 368870798
+FixedCost [7 ] 408706712
+FixedCost [8 ] 318636276
+FixedCost [9 ] 344370686
+FixedCost [10 ] 330052347
+FixedCost [11 ] 358305393
+FixedCost [12 ] 518466353
+FixedCost [13 ] 351519134
+FixedCost [14 ] 392027001
+FixedCost [15 ] 444448948
+FixedCost [16 ] 504019341
+FixedCost [17 ] 984530816
+FixedCost [18 ] 376910418
+FixedCost [19 ] 328286680
+FixedCost [20 ] 387261370
+FixedCost [21 ] 424666811
+FixedCost [22 ] 319827684
+FixedCost [23 ] 327690976
+FixedCost [24 ] 391550438
+FixedCost [25 ] 368198844
+Distance [1 , 1 ] 51
+Distance [1 , 2 ] 310
+Distance [1 , 3 ] 620
+Distance [1 , 4 ] 972
+Distance [1 , 5 ] 124
+Distance [1 , 6 ] 99
+Distance [1 , 7 ] 196
+Distance [1 , 8 ] 809
+Distance [1 , 9 ] 740
+Distance [1 , 10 ] 264
+Distance [1 , 11 ] 260
+Distance [1 , 12 ] 131
+Distance [1 , 13 ] 182
+Distance [1 , 14 ] 131
+Distance [1 , 15 ] 166
+Distance [1 , 16 ] 114
+Distance [1 , 17 ] 287
+Distance [1 , 18 ] 319
+Distance [1 , 19 ] 428
+Distance [1 , 20 ] 554
+Distance [1 , 21 ] 86
+Distance [1 , 22 ] 103
+Distance [1 , 23 ] 99
+Distance [1 , 24 ] 331
+Distance [1 , 25 ] 1094
+Distance [2 , 1 ] 5
+Distance [2 , 2 ] 259
+Distance [2 , 3 ] 569
+Distance [2 , 4 ] 921
+Distance [2 , 5 ] 104
+Distance [2 , 6 ] 79
+Distance [2 , 7 ] 176
+Distance [2 , 8 ] 758
+Distance [2 , 9 ] 689
+Distance [2 , 10 ] 213
+Distance [2 , 11 ] 209
+Distance [2 , 12 ] 80
+Distance [2 , 13 ] 131
+Distance [2 , 14 ] 80
+Distance [2 , 15 ] 120
+Distance [2 , 16 ] 63
+Distance [2 , 17 ] 236
+Distance [2 , 18 ] 268
+Distance [2 , 19 ] 377
+Distance [2 , 20 ] 534
+Distance [2 , 21 ] 35
+Distance [2 , 22 ] 55
+Distance [2 , 23 ] 48
+Distance [2 , 24 ] 293
+Distance [2 , 25 ] 1043
+Distance [3 , 1 ] 17
+Distance [3 , 2 ] 276
+Distance [3 , 3 ] 586
+Distance [3 , 4 ] 938
+Distance [3 , 5 ] 133
+Distance [3 , 6 ] 114
+Distance [3 , 7 ] 234
+Distance [3 , 8 ] 775
+Distance [3 , 9 ] 706
+Distance [3 , 10 ] 230
+Distance [3 , 11 ] 232
+Distance [3 , 12 ] 97
+Distance [3 , 13 ] 151
+Distance [3 , 14 ] 86
+Distance [3 , 15 ] 121
+Distance [3 , 16 ] 69
+Distance [3 , 17 ] 272
+Distance [3 , 18 ] 285
+Distance [3 , 19 ] 394
+Distance [3 , 20 ] 565
+Distance [3 , 21 ] 30
+Distance [3 , 22 ] 50
+Distance [3 , 23 ] 63
+Distance [3 , 24 ] 324
+Distance [3 , 25 ] 1058
+Distance [4 , 1 ] 453
+Distance [4 , 2 ] 194
+Distance [4 , 3 ] 344
+Distance [4 , 4 ] 779
+Distance [4 , 5 ] 569
+Distance [4 , 6 ] 549
+Distance [4 , 7 ] 634
+Distance [4 , 8 ] 533
+Distance [4 , 9 ] 464
+Distance [4 , 10 ] 506
+Distance [4 , 11 ] 339
+Distance [4 , 12 ] 373
+Distance [4 , 13 ] 319
+Distance [4 , 14 ] 479
+Distance [4 , 15 ] 444
+Distance [4 , 16 ] 496
+Distance [4 , 17 ] 608
+Distance [4 , 18 ] 485
+Distance [4 , 19 ] 621
+Distance [4 , 20 ] 992
+Distance [4 , 21 ] 488
+Distance [4 , 22 ] 509
+Distance [4 , 23 ] 501
+Distance [4 , 24 ] 746
+Distance [4 , 25 ] 869
+Distance [5 , 1 ] 203
+Distance [5 , 2 ] 56
+Distance [5 , 3 ] 436
+Distance [5 , 4 ] 870
+Distance [5 , 5 ] 319
+Distance [5 , 6 ] 294
+Distance [5 , 7 ] 384
+Distance [5 , 8 ] 640
+Distance [5 , 9 ] 571
+Distance [5 , 10 ] 180
+Distance [5 , 11 ] 201
+Distance [5 , 12 ] 123
+Distance [5 , 13 ] 69
+Distance [5 , 14 ] 283
+Distance [5 , 15 ] 304
+Distance [5 , 16 ] 266
+Distance [5 , 17 ] 470
+Distance [5 , 18 ] 259
+Distance [5 , 19 ] 395
+Distance [5 , 20 ] 742
+Distance [5 , 21 ] 238
+Distance [5 , 22 ] 251
+Distance [5 , 23 ] 251
+Distance [5 , 24 ] 501
+Distance [5 , 25 ] 965
+Distance [6 , 1 ] 402
+Distance [6 , 2 ] 143
+Distance [6 , 3 ] 322
+Distance [6 , 4 ] 957
+Distance [6 , 5 ] 518
+Distance [6 , 6 ] 493
+Distance [6 , 7 ] 590
+Distance [6 , 8 ] 711
+Distance [6 , 9 ] 742
+Distance [6 , 10 ] 379
+Distance [6 , 11 ] 288
+Distance [6 , 12 ] 322
+Distance [6 , 13 ] 268
+Distance [6 , 14 ] 428
+Distance [6 , 15 ] 393
+Distance [6 , 16 ] 445
+Distance [6 , 17 ] 557
+Distance [6 , 18 ] 434
+Distance [6 , 19 ] 543
+Distance [6 , 20 ] 941
+Distance [6 , 21 ] 437
+Distance [6 , 22 ] 454
+Distance [6 , 23 ] 424
+Distance [6 , 24 ] 725
+Distance [6 , 25 ] 1047
+Distance [7 , 1 ] 343
+Distance [7 , 2 ] 146
+Distance [7 , 3 ] 479
+Distance [7 , 4 ] 914
+Distance [7 , 5 ] 459
+Distance [7 , 6 ] 434
+Distance [7 , 7 ] 531
+Distance [7 , 8 ] 668
+Distance [7 , 9 ] 599
+Distance [7 , 10 ] 396
+Distance [7 , 11 ] 136
+Distance [7 , 12 ] 263
+Distance [7 , 13 ] 274
+Distance [7 , 14 ] 283
+Distance [7 , 15 ] 248
+Distance [7 , 16 ] 300
+Distance [7 , 17 ] 406
+Distance [7 , 18 ] 451
+Distance [7 , 19 ] 560
+Distance [7 , 20 ] 889
+Distance [7 , 21 ] 328
+Distance [7 , 22 ] 345
+Distance [7 , 23 ] 315
+Distance [7 , 24 ] 648
+Distance [7 , 25 ] 1004
+Distance [8 , 1 ] 290
+Distance [8 , 2 ] 96
+Distance [8 , 3 ] 476
+Distance [8 , 4 ] 910
+Distance [8 , 5 ] 393
+Distance [8 , 6 ] 368
+Distance [8 , 7 ] 458
+Distance [8 , 8 ] 680
+Distance [8 , 9 ] 637
+Distance [8 , 10 ] 332
+Distance [8 , 11 ] 83
+Distance [8 , 12 ] 210
+Distance [8 , 13 ] 221
+Distance [8 , 14 ] 215
+Distance [8 , 15 ] 185
+Distance [8 , 16 ] 232
+Distance [8 , 17 ] 352
+Distance [8 , 18 ] 387
+Distance [8 , 19 ] 496
+Distance [8 , 20 ] 816
+Distance [8 , 21 ] 260
+Distance [8 , 22 ] 273
+Distance [8 , 23 ] 247
+Distance [8 , 24 ] 575
+Distance [8 , 25 ] 888
+Distance [9 , 1 ] 378
+Distance [9 , 2 ] 119
+Distance [9 , 3 ] 285
+Distance [9 , 4 ] 720
+Distance [9 , 5 ] 494
+Distance [9 , 6 ] 519
+Distance [9 , 7 ] 559
+Distance [9 , 8 ] 474
+Distance [9 , 9 ] 405
+Distance [9 , 10 ] 355
+Distance [9 , 11 ] 257
+Distance [9 , 12 ] 298
+Distance [9 , 13 ] 244
+Distance [9 , 14 ] 423
+Distance [9 , 15 ] 388
+Distance [9 , 16 ] 440
+Distance [9 , 17 ] 394
+Distance [9 , 18 ] 410
+Distance [9 , 19 ] 519
+Distance [9 , 20 ] 917
+Distance [9 , 21 ] 413
+Distance [9 , 22 ] 430
+Distance [9 , 23 ] 400
+Distance [9 , 24 ] 676
+Distance [9 , 25 ] 785
+Distance [10 , 1 ] 688
+Distance [10 , 2 ] 436
+Distance [10 , 3 ] 524
+Distance [10 , 4 ] 1012
+Distance [10 , 5 ] 804
+Distance [10 , 6 ] 779
+Distance [10 , 7 ] 876
+Distance [10 , 8 ] 473
+Distance [10 , 9 ] 404
+Distance [10 , 10 ] 665
+Distance [10 , 11 ] 564
+Distance [10 , 12 ] 608
+Distance [10 , 13 ] 554
+Distance [10 , 14 ] 714
+Distance [10 , 15 ] 679
+Distance [10 , 16 ] 731
+Distance [10 , 17 ] 843
+Distance [10 , 18 ] 720
+Distance [10 , 19 ] 829
+Distance [10 , 20 ] 1227
+Distance [10 , 21 ] 723
+Distance [10 , 22 ] 740
+Distance [10 , 23 ] 710
+Distance [10 , 24 ] 986
+Distance [10 , 25 ] 1102
+Distance [11 , 1 ] 569
+Distance [11 , 2 ] 379
+Distance [11 , 3 ] 5
+Distance [11 , 4 ] 435
+Distance [11 , 5 ] 673
+Distance [11 , 6 ] 648
+Distance [11 , 7 ] 745
+Distance [11 , 8 ] 189
+Distance [11 , 9 ] 120
+Distance [11 , 10 ] 615
+Distance [11 , 11 ] 362
+Distance [11 , 12 ] 489
+Distance [11 , 13 ] 504
+Distance [11 , 14 ] 502
+Distance [11 , 15 ] 467
+Distance [11 , 16 ] 519
+Distance [11 , 17 ] 374
+Distance [11 , 18 ] 677
+Distance [11 , 19 ] 786
+Distance [11 , 20 ] 1103
+Distance [11 , 21 ] 547
+Distance [11 , 22 ] 564
+Distance [11 , 23 ] 534
+Distance [11 , 24 ] 862
+Distance [11 , 25 ] 525
+Distance [12 , 1 ] 749
+Distance [12 , 2 ] 641
+Distance [12 , 3 ] 272
+Distance [12 , 4 ] 387
+Distance [12 , 5 ] 853
+Distance [12 , 6 ] 828
+Distance [12 , 7 ] 925
+Distance [12 , 8 ] 261
+Distance [12 , 9 ] 330
+Distance [12 , 10 ] 802
+Distance [12 , 11 ] 542
+Distance [12 , 12 ] 669
+Distance [12 , 13 ] 723
+Distance [12 , 14 ] 682
+Distance [12 , 15 ] 647
+Distance [12 , 16 ] 699
+Distance [12 , 17 ] 646
+Distance [12 , 18 ] 857
+Distance [12 , 19 ] 966
+Distance [12 , 20 ] 1284
+Distance [12 , 21 ] 727
+Distance [12 , 22 ] 744
+Distance [12 , 23 ] 714
+Distance [12 , 24 ] 1060
+Distance [12 , 25 ] 484
+Distance [13 , 1 ] 873
+Distance [13 , 2 ] 753
+Distance [13 , 3 ] 374
+Distance [13 , 4 ] 62
+Distance [13 , 5 ] 969
+Distance [13 , 6 ] 944
+Distance [13 , 7 ] 1041
+Distance [13 , 8 ] 477
+Distance [13 , 9 ] 494
+Distance [13 , 10 ] 913
+Distance [13 , 11 ] 654
+Distance [13 , 12 ] 780
+Distance [13 , 13 ] 877
+Distance [13 , 14 ] 793
+Distance [13 , 15 ] 758
+Distance [13 , 16 ] 810
+Distance [13 , 17 ] 708
+Distance [13 , 18 ] 968
+Distance [13 , 19 ] 1077
+Distance [13 , 20 ] 1395
+Distance [13 , 21 ] 838
+Distance [13 , 22 ] 855
+Distance [13 , 23 ] 825
+Distance [13 , 24 ] 1176
+Distance [13 , 25 ] 254
+Distance [14 , 1 ] 646
+Distance [14 , 2 ] 554
+Distance [14 , 3 ] 159
+Distance [14 , 4 ] 276
+Distance [14 , 5 ] 750
+Distance [14 , 6 ] 725
+Distance [14 , 7 ] 822
+Distance [14 , 8 ] 263
+Distance [14 , 9 ] 279
+Distance [14 , 10 ] 699
+Distance [14 , 11 ] 439
+Distance [14 , 12 ] 566
+Distance [14 , 13 ] 620
+Distance [14 , 14 ] 579
+Distance [14 , 15 ] 544
+Distance [14 , 16 ] 598
+Distance [14 , 17 ] 708
+Distance [14 , 18 ] 754
+Distance [14 , 19 ] 863
+Distance [14 , 20 ] 1198
+Distance [14 , 21 ] 624
+Distance [14 , 22 ] 641
+Distance [14 , 23 ] 611
+Distance [14 , 24 ] 957
+Distance [14 , 25 ] 366
+Distance [15 , 1 ] 537
+Distance [15 , 2 ] 278
+Distance [15 , 3 ] 116
+Distance [15 , 4 ] 551
+Distance [15 , 5 ] 641
+Distance [15 , 6 ] 616
+Distance [15 , 7 ] 713
+Distance [15 , 8 ] 305
+Distance [15 , 9 ] 120
+Distance [15 , 10 ] 514
+Distance [15 , 11 ] 423
+Distance [15 , 12 ] 457
+Distance [15 , 13 ] 403
+Distance [15 , 14 ] 563
+Distance [15 , 15 ] 528
+Distance [15 , 16 ] 580
+Distance [15 , 17 ] 440
+Distance [15 , 18 ] 569
+Distance [15 , 19 ] 678
+Distance [15 , 20 ] 1071
+Distance [15 , 21 ] 572
+Distance [15 , 22 ] 589
+Distance [15 , 23 ] 585
+Distance [15 , 24 ] 848
+Distance [15 , 25 ] 641
+Distance [16 , 1 ] 730
+Distance [16 , 2 ] 540
+Distance [16 , 3 ] 161
+Distance [16 , 4 ] 663
+Distance [16 , 5 ] 834
+Distance [16 , 6 ] 809
+Distance [16 , 7 ] 906
+Distance [16 , 8 ] 124
+Distance [16 , 9 ] 330
+Distance [16 , 10 ] 776
+Distance [16 , 11 ] 523
+Distance [16 , 12 ] 650
+Distance [16 , 13 ] 665
+Distance [16 , 14 ] 663
+Distance [16 , 15 ] 628
+Distance [16 , 16 ] 677
+Distance [16 , 17 ] 535
+Distance [16 , 18 ] 838
+Distance [16 , 19 ] 947
+Distance [16 , 20 ] 1264
+Distance [16 , 21 ] 708
+Distance [16 , 22 ] 725
+Distance [16 , 23 ] 695
+Distance [16 , 24 ] 1023
+Distance [16 , 25 ] 720
+Distance [17 , 1 ] 737
+Distance [17 , 2 ] 547
+Distance [17 , 3 ] 168
+Distance [17 , 4 ] 587
+Distance [17 , 5 ] 841
+Distance [17 , 6 ] 816
+Distance [17 , 7 ] 913
+Distance [17 , 8 ] 98
+Distance [17 , 9 ] 494
+Distance [17 , 10 ] 783
+Distance [17 , 11 ] 530
+Distance [17 , 12 ] 657
+Distance [17 , 13 ] 672
+Distance [17 , 14 ] 670
+Distance [17 , 15 ] 635
+Distance [17 , 16 ] 684
+Distance [17 , 17 ] 542
+Distance [17 , 18 ] 845
+Distance [17 , 19 ] 954
+Distance [17 , 20 ] 1271
+Distance [17 , 21 ] 715
+Distance [17 , 22 ] 732
+Distance [17 , 23 ] 702
+Distance [17 , 24 ] 1030
+Distance [17 , 25 ] 727
+Distance [18 , 1 ] 178
+Distance [18 , 2 ] 180
+Distance [18 , 3 ] 409
+Distance [18 , 4 ] 762
+Distance [18 , 5 ] 282
+Distance [18 , 6 ] 257
+Distance [18 , 7 ] 354
+Distance [18 , 8 ] 598
+Distance [18 , 9 ] 236
+Distance [18 , 10 ] 266
+Distance [18 , 11 ] 48
+Distance [18 , 12 ] 133
+Distance [18 , 13 ] 187
+Distance [18 , 14 ] 98
+Distance [18 , 15 ] 63
+Distance [18 , 16 ] 115
+Distance [18 , 17 ] 303
+Distance [18 , 18 ] 321
+Distance [18 , 19 ] 430
+Distance [18 , 20 ] 712
+Distance [18 , 21 ] 143
+Distance [18 , 22 ] 160
+Distance [18 , 23 ] 130
+Distance [18 , 24 ] 489
+Distance [18 , 25 ] 851
+Distance [19 , 1 ] 209
+Distance [19 , 2 ] 234
+Distance [19 , 3 ] 447
+Distance [19 , 4 ] 803
+Distance [19 , 5 ] 313
+Distance [19 , 6 ] 288
+Distance [19 , 7 ] 380
+Distance [19 , 8 ] 636
+Distance [19 , 9 ] 41
+Distance [19 , 10 ] 262
+Distance [19 , 11 ] 89
+Distance [19 , 12 ] 129
+Distance [19 , 13 ] 183
+Distance [19 , 14 ] 137
+Distance [19 , 15 ] 102
+Distance [19 , 16 ] 154
+Distance [19 , 17 ] 358
+Distance [19 , 18 ] 317
+Distance [19 , 19 ] 426
+Distance [19 , 20 ] 741
+Distance [19 , 21 ] 182
+Distance [19 , 22 ] 199
+Distance [19 , 23 ] 169
+Distance [19 , 24 ] 518
+Distance [19 , 25 ] 894
+Distance [20 , 1 ] 120
+Distance [20 , 2 ] 208
+Distance [20 , 3 ] 587
+Distance [20 , 4 ] 882
+Distance [20 , 5 ] 224
+Distance [20 , 6 ] 199
+Distance [20 , 7 ] 296
+Distance [20 , 8 ] 718
+Distance [20 , 9 ] 48
+Distance [20 , 10 ] 116
+Distance [20 , 11 ] 167
+Distance [20 , 12 ] 40
+Distance [20 , 13 ] 83
+Distance [20 , 14 ] 200
+Distance [20 , 15 ] 235
+Distance [20 , 16 ] 183
+Distance [20 , 17 ] 434
+Distance [20 , 18 ] 217
+Distance [20 , 19 ] 326
+Distance [20 , 20 ] 654
+Distance [20 , 21 ] 155
+Distance [20 , 22 ] 172
+Distance [20 , 23 ] 168
+Distance [20 , 24 ] 431
+Distance [20 , 25 ] 972
+Distance [21 , 1 ] 213
+Distance [21 , 2 ] 236
+Distance [21 , 3 ] 615
+Distance [21 , 4 ] 975
+Distance [21 , 5 ] 317
+Distance [21 , 6 ] 292
+Distance [21 , 7 ] 389
+Distance [21 , 8 ] 804
+Distance [21 , 9 ] 529
+Distance [21 , 10 ] 5
+Distance [21 , 11 ] 260
+Distance [21 , 12 ] 133
+Distance [21 , 13 ] 111
+Distance [21 , 14 ] 293
+Distance [21 , 15 ] 328
+Distance [21 , 16 ] 276
+Distance [21 , 17 ] 449
+Distance [21 , 18 ] 155
+Distance [21 , 19 ] 264
+Distance [21 , 20 ] 653
+Distance [21 , 21 ] 248
+Distance [21 , 22 ] 265
+Distance [21 , 23 ] 261
+Distance [21 , 24 ] 412
+Distance [21 , 25 ] 1065
+Distance [22 , 1 ] 220
+Distance [22 , 2 ] 252
+Distance [22 , 3 ] 469
+Distance [22 , 4 ] 812
+Distance [22 , 5 ] 318
+Distance [22 , 6 ] 293
+Distance [22 , 7 ] 383
+Distance [22 , 8 ] 658
+Distance [22 , 9 ] 567
+Distance [22 , 10 ] 327
+Distance [22 , 11 ] 107
+Distance [22 , 12 ] 194
+Distance [22 , 13 ] 248
+Distance [22 , 14 ] 140
+Distance [22 , 15 ] 105
+Distance [22 , 16 ] 157
+Distance [22 , 17 ] 170
+Distance [22 , 18 ] 388
+Distance [22 , 19 ] 491
+Distance [22 , 20 ] 742
+Distance [22 , 21 ] 185
+Distance [22 , 22 ] 202
+Distance [22 , 23 ] 172
+Distance [22 , 24 ] 501
+Distance [22 , 25 ] 912
+Distance [23 , 1 ] 204
+Distance [23 , 2 ] 409
+Distance [23 , 3 ] 626
+Distance [23 , 4 ] 979
+Distance [23 , 5 ] 302
+Distance [23 , 6 ] 277
+Distance [23 , 7 ] 367
+Distance [23 , 8 ] 815
+Distance [23 , 9 ] 649
+Distance [23 , 10 ] 417
+Distance [23 , 11 ] 264
+Distance [23 , 12 ] 284
+Distance [23 , 13 ] 376
+Distance [23 , 14 ] 124
+Distance [23 , 15 ] 159
+Distance [23 , 16 ] 141
+Distance [23 , 17 ] 105
+Distance [23 , 18 ] 472
+Distance [23 , 19 ] 581
+Distance [23 , 20 ] 725
+Distance [23 , 21 ] 169
+Distance [23 , 22 ] 186
+Distance [23 , 23 ] 156
+Distance [23 , 24 ] 502
+Distance [23 , 25 ] 962
+Distance [24 , 1 ] 63
+Distance [24 , 2 ] 302
+Distance [24 , 3 ] 519
+Distance [24 , 4 ] 872
+Distance [24 , 5 ] 161
+Distance [24 , 6 ] 136
+Distance [24 , 7 ] 226
+Distance [24 , 8 ] 708
+Distance [24 , 9 ] 735
+Distance [24 , 10 ] 296
+Distance [24 , 11 ] 157
+Distance [24 , 12 ] 163
+Distance [24 , 13 ] 217
+Distance [24 , 14 ] 17
+Distance [24 , 15 ] 52
+Distance [24 , 16 ] 5
+Distance [24 , 17 ] 192
+Distance [24 , 18 ] 351
+Distance [24 , 19 ] 460
+Distance [24 , 20 ] 584
+Distance [24 , 21 ] 28
+Distance [24 , 22 ] 45
+Distance [24 , 23 ] 15
+Distance [24 , 24 ] 361
+Distance [24 , 25 ] 958
+Distance [25 , 1 ] 268
+Distance [25 , 2 ] 446
+Distance [25 , 3 ] 388
+Distance [25 , 4 ] 741
+Distance [25 , 5 ] 395
+Distance [25 , 6 ] 370
+Distance [25 , 7 ] 467
+Distance [25 , 8 ] 577
+Distance [25 , 9 ] 589
+Distance [25 , 10 ] 481
+Distance [25 , 11 ] 301
+Distance [25 , 12 ] 348
+Distance [25 , 13 ] 402
+Distance [25 , 14 ] 215
+Distance [25 , 15 ] 250
+Distance [25 , 16 ] 232
+Distance [25 , 17 ] 32
+Distance [25 , 18 ] 616
+Distance [25 , 19 ] 725
+Distance [25 , 20 ] 825
+Distance [25 , 21 ] 233
+Distance [25 , 22 ] 250
+Distance [25 , 23 ] 220
+Distance [25 , 24 ] 549
+Distance [25 , 25 ] 839
+Distance [26 , 1 ] 251
+Distance [26 , 2 ] 477
+Distance [26 , 3 ] 437
+Distance [26 , 4 ] 833
+Distance [26 , 5 ] 372
+Distance [26 , 6 ] 347
+Distance [26 , 7 ] 397
+Distance [26 , 8 ] 626
+Distance [26 , 9 ] 746
+Distance [26 , 10 ] 464
+Distance [26 , 11 ] 332
+Distance [26 , 12 ] 331
+Distance [26 , 13 ] 433
+Distance [26 , 14 ] 192
+Distance [26 , 15 ] 227
+Distance [26 , 16 ] 195
+Distance [26 , 17 ] 63
+Distance [26 , 18 ] 519
+Distance [26 , 19 ] 628
+Distance [26 , 20 ] 785
+Distance [26 , 21 ] 216
+Distance [26 , 22 ] 222
+Distance [26 , 23 ] 203
+Distance [26 , 24 ] 532
+Distance [26 , 25 ] 870
+Distance [27 , 1 ] 269
+Distance [27 , 2 ] 318
+Distance [27 , 3 ] 482
+Distance [27 , 4 ] 878
+Distance [27 , 5 ] 343
+Distance [27 , 6 ] 318
+Distance [27 , 7 ] 415
+Distance [27 , 8 ] 671
+Distance [27 , 9 ] 639
+Distance [27 , 10 ] 393
+Distance [27 , 11 ] 173
+Distance [27 , 12 ] 260
+Distance [27 , 13 ] 314
+Distance [27 , 14 ] 189
+Distance [27 , 15 ] 154
+Distance [27 , 16 ] 206
+Distance [27 , 17 ] 108
+Distance [27 , 18 ] 448
+Distance [27 , 19 ] 557
+Distance [27 , 20 ] 791
+Distance [27 , 21 ] 234
+Distance [27 , 22 ] 25
+Distance [27 , 23 ] 221
+Distance [27 , 24 ] 550
+Distance [27 , 25 ] 915
+Distance [28 , 1 ] 323
+Distance [28 , 2 ] 501
+Distance [28 , 3 ] 461
+Distance [28 , 4 ] 857
+Distance [28 , 5 ] 414
+Distance [28 , 6 ] 389
+Distance [28 , 7 ] 486
+Distance [28 , 8 ] 650
+Distance [28 , 9 ] 508
+Distance [28 , 10 ] 536
+Distance [28 , 11 ] 356
+Distance [28 , 12 ] 403
+Distance [28 , 13 ] 454
+Distance [28 , 14 ] 270
+Distance [28 , 15 ] 305
+Distance [28 , 16 ] 287
+Distance [28 , 17 ] 87
+Distance [28 , 18 ] 671
+Distance [28 , 19 ] 780
+Distance [28 , 20 ] 880
+Distance [28 , 21 ] 288
+Distance [28 , 22 ] 305
+Distance [28 , 23 ] 275
+Distance [28 , 24 ] 604
+Distance [28 , 25 ] 894
+Distance [29 , 1 ] 285
+Distance [29 , 2 ] 530
+Distance [29 , 3 ] 490
+Distance [29 , 4 ] 886
+Distance [29 , 5 ] 359
+Distance [29 , 6 ] 334
+Distance [29 , 7 ] 431
+Distance [29 , 8 ] 679
+Distance [29 , 9 ] 557
+Distance [29 , 10 ] 498
+Distance [29 , 11 ] 357
+Distance [29 , 12 ] 365
+Distance [29 , 13 ] 419
+Distance [29 , 14 ] 217
+Distance [29 , 15 ] 252
+Distance [29 , 16 ] 234
+Distance [29 , 17 ] 116
+Distance [29 , 18 ] 553
+Distance [29 , 19 ] 662
+Distance [29 , 20 ] 807
+Distance [29 , 21 ] 250
+Distance [29 , 22 ] 231
+Distance [29 , 23 ] 249
+Distance [29 , 24 ] 566
+Distance [29 , 25 ] 923
+Distance [30 , 1 ] 183
+Distance [30 , 2 ] 408
+Distance [30 , 3 ] 490
+Distance [30 , 4 ] 886
+Distance [30 , 5 ] 274
+Distance [30 , 6 ] 249
+Distance [30 , 7 ] 346
+Distance [30 , 8 ] 679
+Distance [30 , 9 ] 602
+Distance [30 , 10 ] 396
+Distance [30 , 11 ] 263
+Distance [30 , 12 ] 283
+Distance [30 , 13 ] 339
+Distance [30 , 14 ] 123
+Distance [30 , 15 ] 158
+Distance [30 , 16 ] 140
+Distance [30 , 17 ] 116
+Distance [30 , 18 ] 451
+Distance [30 , 19 ] 560
+Distance [30 , 20 ] 705
+Distance [30 , 21 ] 148
+Distance [30 , 22 ] 129
+Distance [30 , 23 ] 155
+Distance [30 , 24 ] 464
+Distance [30 , 25 ] 923
+Distance [31 , 1 ] 494
+Distance [31 , 2 ] 517
+Distance [31 , 3 ] 902
+Distance [31 , 4 ] 1256
+Distance [31 , 5 ] 603
+Distance [31 , 6 ] 578
+Distance [31 , 7 ] 675
+Distance [31 , 8 ] 1092
+Distance [31 , 9 ] 581
+Distance [31 , 10 ] 425
+Distance [31 , 11 ] 541
+Distance [31 , 12 ] 414
+Distance [31 , 13 ] 392
+Distance [31 , 14 ] 574
+Distance [31 , 15 ] 609
+Distance [31 , 16 ] 557
+Distance [31 , 17 ] 730
+Distance [31 , 18 ] 226
+Distance [31 , 19 ] 117
+Distance [31 , 20 ] 309
+Distance [31 , 21 ] 529
+Distance [31 , 22 ] 546
+Distance [31 , 23 ] 542
+Distance [31 , 24 ] 306
+Distance [31 , 25 ] 1346
+Distance [32 , 1 ] 268
+Distance [32 , 2 ] 291
+Distance [32 , 3 ] 677
+Distance [32 , 4 ] 1030
+Distance [32 , 5 ] 377
+Distance [32 , 6 ] 352
+Distance [32 , 7 ] 449
+Distance [32 , 8 ] 866
+Distance [32 , 9 ] 797
+Distance [32 , 10 ] 199
+Distance [32 , 11 ] 315
+Distance [32 , 12 ] 188
+Distance [32 , 13 ] 166
+Distance [32 , 14 ] 348
+Distance [32 , 15 ] 383
+Distance [32 , 16 ] 331
+Distance [32 , 17 ] 584
+Distance [32 , 18 ] 5
+Distance [32 , 19 ] 109
+Distance [32 , 20 ] 498
+Distance [32 , 21 ] 303
+Distance [32 , 22 ] 320
+Distance [32 , 23 ] 316
+Distance [32 , 24 ] 256
+Distance [32 , 25 ] 1120
+Distance [33 , 1 ] 377
+Distance [33 , 2 ] 300
+Distance [33 , 3 ] 786
+Distance [33 , 4 ] 1139
+Distance [33 , 5 ] 435
+Distance [33 , 6 ] 460
+Distance [33 , 7 ] 363
+Distance [33 , 8 ] 975
+Distance [33 , 9 ] 806
+Distance [33 , 10 ] 308
+Distance [33 , 11 ] 424
+Distance [33 , 12 ] 297
+Distance [33 , 13 ] 275
+Distance [33 , 14 ] 457
+Distance [33 , 15 ] 492
+Distance [33 , 16 ] 440
+Distance [33 , 17 ] 693
+Distance [33 , 18 ] 109
+Distance [33 , 19 ] 5
+Distance [33 , 20 ] 468
+Distance [33 , 21 ] 412
+Distance [33 , 22 ] 429
+Distance [33 , 23 ] 425
+Distance [33 , 24 ] 228
+Distance [33 , 25 ] 1229
+Distance [34 , 1 ] 449
+Distance [34 , 2 ] 372
+Distance [34 , 3 ] 858
+Distance [34 , 4 ] 1211
+Distance [34 , 5 ] 363
+Distance [34 , 6 ] 388
+Distance [34 , 7 ] 291
+Distance [34 , 8 ] 1047
+Distance [34 , 9 ] 978
+Distance [34 , 10 ] 380
+Distance [34 , 11 ] 496
+Distance [34 , 12 ] 369
+Distance [34 , 13 ] 347
+Distance [34 , 14 ] 529
+Distance [34 , 15 ] 564
+Distance [34 , 16 ] 512
+Distance [34 , 17 ] 765
+Distance [34 , 18 ] 181
+Distance [34 , 19 ] 72
+Distance [34 , 20 ] 396
+Distance [34 , 21 ] 484
+Distance [34 , 22 ] 501
+Distance [34 , 23 ] 497
+Distance [34 , 24 ] 156
+Distance [34 , 25 ] 1301
+Distance [35 , 1 ] 463
+Distance [35 , 2 ] 727
+Distance [35 , 3 ] 1032
+Distance [35 , 4 ] 1386
+Distance [35 , 5 ] 359
+Distance [35 , 6 ] 384
+Distance [35 , 7 ] 287
+Distance [35 , 8 ] 1221
+Distance [35 , 9 ] 1152
+Distance [35 , 10 ] 626
+Distance [35 , 11 ] 675
+Distance [35 , 12 ] 548
+Distance [35 , 13 ] 593
+Distance [35 , 14 ] 531
+Distance [35 , 15 ] 566
+Distance [35 , 16 ] 514
+Distance [35 , 17 ] 687
+Distance [35 , 18 ] 427
+Distance [35 , 19 ] 398
+Distance [35 , 20 ] 74
+Distance [35 , 21 ] 486
+Distance [35 , 22 ] 503
+Distance [35 , 23 ] 499
+Distance [35 , 24 ] 170
+Distance [35 , 25 ] 1476
+Distance [36 , 1 ] 534
+Distance [36 , 2 ] 798
+Distance [36 , 3 ] 1103
+Distance [36 , 4 ] 1457
+Distance [36 , 5 ] 430
+Distance [36 , 6 ] 455
+Distance [36 , 7 ] 358
+Distance [36 , 8 ] 1292
+Distance [36 , 9 ] 1223
+Distance [36 , 10 ] 697
+Distance [36 , 11 ] 746
+Distance [36 , 12 ] 619
+Distance [36 , 13 ] 664
+Distance [36 , 14 ] 602
+Distance [36 , 15 ] 637
+Distance [36 , 16 ] 585
+Distance [36 , 17 ] 758
+Distance [36 , 18 ] 498
+Distance [36 , 19 ] 468
+Distance [36 , 20 ] 5
+Distance [36 , 21 ] 557
+Distance [36 , 22 ] 574
+Distance [36 , 23 ] 570
+Distance [36 , 24 ] 241
+Distance [36 , 25 ] 1547
+Distance [37 , 1 ] 99
+Distance [37 , 2 ] 358
+Distance [37 , 3 ] 611
+Distance [37 , 4 ] 964
+Distance [37 , 5 ] 171
+Distance [37 , 6 ] 146
+Distance [37 , 7 ] 238
+Distance [37 , 8 ] 800
+Distance [37 , 9 ] 731
+Distance [37 , 10 ] 312
+Distance [37 , 11 ] 249
+Distance [37 , 12 ] 179
+Distance [37 , 13 ] 233
+Distance [37 , 14 ] 109
+Distance [37 , 15 ] 144
+Distance [37 , 16 ] 93
+Distance [37 , 17 ] 228
+Distance [37 , 18 ] 367
+Distance [37 , 19 ] 476
+Distance [37 , 20 ] 621
+Distance [37 , 21 ] 64
+Distance [37 , 22 ] 34
+Distance [37 , 23 ] 77
+Distance [37 , 24 ] 370
+Distance [37 , 25 ] 1072
+Distance [38 , 1 ] 35
+Distance [38 , 2 ] 294
+Distance [38 , 3 ] 547
+Distance [38 , 4 ] 900
+Distance [38 , 5 ] 126
+Distance [38 , 6 ] 101
+Distance [38 , 7 ] 198
+Distance [38 , 8 ] 736
+Distance [38 , 9 ] 667
+Distance [38 , 10 ] 248
+Distance [38 , 11 ] 185
+Distance [38 , 12 ] 115
+Distance [38 , 13 ] 169
+Distance [38 , 14 ] 45
+Distance [38 , 15 ] 80
+Distance [38 , 16 ] 28
+Distance [38 , 17 ] 201
+Distance [38 , 18 ] 303
+Distance [38 , 19 ] 412
+Distance [38 , 20 ] 557
+Distance [38 , 21 ] 5
+Distance [38 , 22 ] 17
+Distance [38 , 23 ] 13
+Distance [38 , 24 ] 316
+Distance [38 , 25 ] 1008
+Distance [39 , 1 ] 373
+Distance [39 , 2 ] 637
+Distance [39 , 3 ] 942
+Distance [39 , 4 ] 1318
+Distance [39 , 5 ] 287
+Distance [39 , 6 ] 312
+Distance [39 , 7 ] 215
+Distance [39 , 8 ] 1131
+Distance [39 , 9 ] 1062
+Distance [39 , 10 ] 536
+Distance [39 , 11 ] 581
+Distance [39 , 12 ] 458
+Distance [39 , 13 ] 512
+Distance [39 , 14 ] 441
+Distance [39 , 15 ] 476
+Distance [39 , 16 ] 424
+Distance [39 , 17 ] 597
+Distance [39 , 18 ] 337
+Distance [39 , 19 ] 322
+Distance [39 , 20 ] 161
+Distance [39 , 21 ] 396
+Distance [39 , 22 ] 413
+Distance [39 , 23 ] 409
+Distance [39 , 24 ] 80
+Distance [39 , 25 ] 1386
+Distance [40 , 1 ] 306
+Distance [40 , 2 ] 570
+Distance [40 , 3 ] 875
+Distance [40 , 4 ] 1251
+Distance [40 , 5 ] 220
+Distance [40 , 6 ] 245
+Distance [40 , 7 ] 148
+Distance [40 , 8 ] 1064
+Distance [40 , 9 ] 995
+Distance [40 , 10 ] 469
+Distance [40 , 11 ] 514
+Distance [40 , 12 ] 386
+Distance [40 , 13 ] 445
+Distance [40 , 14 ] 374
+Distance [40 , 15 ] 409
+Distance [40 , 16 ] 357
+Distance [40 , 17 ] 530
+Distance [40 , 18 ] 270
+Distance [40 , 19 ] 255
+Distance [40 , 20 ] 228
+Distance [40 , 21 ] 328
+Distance [40 , 22 ] 346
+Distance [40 , 23 ] 342
+Distance [40 , 24 ] 13
+Distance [40 , 25 ] 1319
+Distance [41 , 1 ] 259
+Distance [41 , 2 ] 523
+Distance [41 , 3 ] 828
+Distance [41 , 4 ] 1182
+Distance [41 , 5 ] 173
+Distance [41 , 6 ] 198
+Distance [41 , 7 ] 101
+Distance [41 , 8 ] 1017
+Distance [41 , 9 ] 948
+Distance [41 , 10 ] 472
+Distance [41 , 11 ] 466
+Distance [41 , 12 ] 339
+Distance [41 , 13 ] 398
+Distance [41 , 14 ] 327
+Distance [41 , 15 ] 362
+Distance [41 , 16 ] 310
+Distance [41 , 17 ] 483
+Distance [41 , 18 ] 276
+Distance [41 , 19 ] 261
+Distance [41 , 20 ] 309
+Distance [41 , 21 ] 282
+Distance [41 , 22 ] 299
+Distance [41 , 23 ] 295
+Distance [41 , 24 ] 34
+Distance [41 , 25 ] 1272
+Distance [42 , 1 ] 1043
+Distance [42 , 2 ] 909
+Distance [42 , 3 ] 545
+Distance [42 , 4 ] 243
+Distance [42 , 5 ] 1134
+Distance [42 , 6 ] 1109
+Distance [42 , 7 ] 1206
+Distance [42 , 8 ] 629
+Distance [42 , 9 ] 560
+Distance [42 , 10 ] 1065
+Distance [42 , 11 ] 805
+Distance [42 , 12 ] 932
+Distance [42 , 13 ] 986
+Distance [42 , 14 ] 945
+Distance [42 , 15 ] 910
+Distance [42 , 16 ] 962
+Distance [42 , 17 ] 807
+Distance [42 , 18 ] 1120
+Distance [42 , 19 ] 1229
+Distance [42 , 20 ] 1547
+Distance [42 , 21 ] 1008
+Distance [42 , 22 ] 1025
+Distance [42 , 23 ] 995
+Distance [42 , 24 ] 1306
+Distance [42 , 25 ] 5
+Distance [43 , 1 ] 263
+Distance [43 , 2 ] 275
+Distance [43 , 3 ] 654
+Distance [43 , 4 ] 1026
+Distance [43 , 5 ] 372
+Distance [43 , 6 ] 347
+Distance [43 , 7 ] 444
+Distance [43 , 8 ] 843
+Distance [43 , 9 ] 774
+Distance [43 , 10 ] 200
+Distance [43 , 11 ] 310
+Distance [43 , 12 ] 183
+Distance [43 , 13 ] 152
+Distance [43 , 14 ] 343
+Distance [43 , 15 ] 378
+Distance [43 , 16 ] 326
+Distance [43 , 17 ] 499
+Distance [43 , 18 ] 261
+Distance [43 , 19 ] 370
+Distance [43 , 20 ] 759
+Distance [43 , 21 ] 298
+Distance [43 , 22 ] 315
+Distance [43 , 23 ] 311
+Distance [43 , 24 ] 518
+Distance [43 , 25 ] 1115
+Distance [44 , 1 ] 140
+Distance [44 , 2 ] 399
+Distance [44 , 3 ] 704
+Distance [44 , 4 ] 1062
+Distance [44 , 5 ] 24
+Distance [44 , 6 ] 49
+Distance [44 , 7 ] 77
+Distance [44 , 8 ] 893
+Distance [44 , 9 ] 824
+Distance [44 , 10 ] 353
+Distance [44 , 11 ] 347
+Distance [44 , 12 ] 220
+Distance [44 , 13 ] 274
+Distance [44 , 14 ] 202
+Distance [44 , 15 ] 237
+Distance [44 , 16 ] 185
+Distance [44 , 17 ] 358
+Distance [44 , 18 ] 469
+Distance [44 , 19 ] 578
+Distance [44 , 20 ] 435
+Distance [44 , 21 ] 157
+Distance [44 , 22 ] 174
+Distance [44 , 23 ] 170
+Distance [44 , 24 ] 212
+Distance [44 , 25 ] 1152
+Distance [45 , 1 ] 61
+Distance [45 , 2 ] 310
+Distance [45 , 3 ] 563
+Distance [45 , 4 ] 916
+Distance [45 , 5 ] 117
+Distance [45 , 6 ] 132
+Distance [45 , 7 ] 182
+Distance [45 , 8 ] 752
+Distance [45 , 9 ] 683
+Distance [45 , 10 ] 264
+Distance [45 , 11 ] 201
+Distance [45 , 12 ] 131
+Distance [45 , 13 ] 185
+Distance [45 , 14 ] 61
+Distance [45 , 15 ] 96
+Distance [45 , 16 ] 44
+Distance [45 , 17 ] 217
+Distance [45 , 18 ] 319
+Distance [45 , 19 ] 428
+Distance [45 , 20 ] 540
+Distance [45 , 21 ] 16
+Distance [45 , 22 ] 22
+Distance [45 , 23 ] 29
+Distance [45 , 24 ] 317
+Distance [45 , 25 ] 1006
+Distance [46 , 1 ] 116
+Distance [46 , 2 ] 375
+Distance [46 , 3 ] 680
+Distance [46 , 4 ] 1038
+Distance [46 , 5 ] 5
+Distance [46 , 6 ] 25
+Distance [46 , 7 ] 72
+Distance [46 , 8 ] 869
+Distance [46 , 9 ] 800
+Distance [46 , 10 ] 329
+Distance [46 , 11 ] 323
+Distance [46 , 12 ] 196
+Distance [46 , 13 ] 250
+Distance [46 , 14 ] 178
+Distance [46 , 15 ] 213
+Distance [46 , 16 ] 161
+Distance [46 , 17 ] 334
+Distance [46 , 18 ] 445
+Distance [46 , 19 ] 554
+Distance [46 , 20 ] 411
+Distance [46 , 21 ] 133
+Distance [46 , 22 ] 150
+Distance [46 , 23 ] 146
+Distance [46 , 24 ] 188
+Distance [46 , 25 ] 1138
+Distance [47 , 1 ] 56
+Distance [47 , 2 ] 315
+Distance [47 , 3 ] 625
+Distance [47 , 4 ] 991
+Distance [47 , 5 ] 75
+Distance [47 , 6 ] 50
+Distance [47 , 7 ] 147
+Distance [47 , 8 ] 814
+Distance [47 , 9 ] 745
+Distance [47 , 10 ] 269
+Distance [47 , 11 ] 263
+Distance [47 , 12 ] 136
+Distance [47 , 13 ] 190
+Distance [47 , 14 ] 136
+Distance [47 , 15 ] 171
+Distance [47 , 16 ] 119
+Distance [47 , 17 ] 292
+Distance [47 , 18 ] 324
+Distance [47 , 19 ] 433
+Distance [47 , 20 ] 505
+Distance [47 , 21 ] 91
+Distance [47 , 22 ] 108
+Distance [47 , 23 ] 104
+Distance [47 , 24 ] 282
+Distance [47 , 25 ] 1068
+Cost [1 , 1 ] 84147853
+Cost [1 , 2 ] 106398423
+Cost [1 , 3 ] 114656312
+Cost [1 , 4 ] 125015692
+Cost [1 , 5 ] 86084505
+Cost [1 , 6 ] 84004513
+Cost [1 , 7 ] 90751157
+Cost [1 , 8 ] 122450305
+Cost [1 , 9 ] 136471450
+Cost [1 , 10 ] 106014498
+Cost [1 , 11 ] 102085114
+Cost [1 , 12 ] 97256589
+Cost [1 , 13 ] 100380929
+Cost [1 , 14 ] 90657541
+Cost [1 , 15 ] 104298518
+Cost [1 , 16 ] 93036273
+Cost [1 , 17 ] 99106959
+Cost [1 , 18 ] 109252455
+Cost [1 , 19 ] 114464217
+Cost [1 , 20 ] 116716847
+Cost [1 , 21 ] 88360152
+Cost [1 , 22 ] 90823034
+Cost [1 , 23 ] 89469259
+Cost [1 , 24 ] 106337465
+Cost [1 , 25 ] 120998144
+Cost [2 , 1 ] 493143747
+Cost [2 , 2 ] 684796703
+Cost [2 , 3 ] 744303399
+Cost [2 , 4 ] 812759574
+Cost [2 , 5 ] 557290408
+Cost [2 , 6 ] 541940631
+Cost [2 , 7 ] 590743221
+Cost [2 , 8 ] 795807153
+Cost [2 , 9 ] 888460757
+Cost [2 , 10 ] 680485454
+Cost [2 , 11 ] 654340434
+Cost [2 , 12 ] 611756919
+Cost [2 , 13 ] 638268016
+Cost [2 , 14 ] 568149521
+Cost [2 , 15 ] 665524966
+Cost [2 , 16 ] 580779772
+Cost [2 , 17 ] 635786537
+Cost [2 , 18 ] 703952861
+Cost [2 , 19 ] 743034013
+Cost [2 , 20 ] 766041014
+Cost [2 , 21 ] 541823773
+Cost [2 , 22 ] 566154909
+Cost [2 , 23 ] 553542971
+Cost [2 , 24 ] 689706954
+Cost [2 , 25 ] 786211078
+Cost [3 , 1 ] 692468440
+Cost [3 , 2 ] 924343105
+Cost [3 , 3 ] 1001474048
+Cost [3 , 4 ] 1093035237
+Cost [3 , 5 ] 767391008
+Cost [3 , 6 ] 754491511
+Cost [3 , 7 ] 823209473
+Cost [3 , 8 ] 1070361113
+Cost [3 , 9 ] 1194286735
+Cost [3 , 10 ] 919448867
+Cost [3 , 11 ] 887789820
+Cost [3 , 12 ] 833247208
+Cost [3 , 13 ] 867534805
+Cost [3 , 14 ] 765382164
+Cost [3 , 15 ] 890900630
+Cost [3 , 16 ] 782971758
+Cost [3 , 17 ] 868696763
+Cost [3 , 18 ] 949820504
+Cost [3 , 19 ] 999776225
+Cost [3 , 20 ] 1035454042
+Cost [3 , 21 ] 717250922
+Cost [3 , 22 ] 751446603
+Cost [3 , 23 ] 757294103
+Cost [3 , 24 ] 936743774
+Cost [3 , 25 ] 1056825415
+Cost [4 , 1 ] 45475748
+Cost [4 , 2 ] 42721168
+Cost [4 , 3 ] 45988200
+Cost [4 , 4 ] 50316842
+Cost [4 , 5 ] 45057140
+Cost [4 , 6 ] 44775109
+Cost [4 , 7 ] 45885964
+Cost [4 , 8 ] 47806276
+Cost [4 , 9 ] 53817474
+Cost [4 , 10 ] 48482093
+Cost [4 , 11 ] 45558817
+Cost [4 , 12 ] 46268001
+Cost [4 , 13 ] 46475135
+Cost [4 , 14 ] 45240479
+Cost [4 , 15 ] 49348868
+Cost [4 , 16 ] 47163406
+Cost [4 , 17 ] 46710333
+Cost [4 , 18 ] 48249079
+Cost [4 , 19 ] 52353889
+Cost [4 , 20 ] 57483829
+Cost [4 , 21 ] 46149538
+Cost [4 , 22 ] 46858767
+Cost [4 , 23 ] 46302136
+Cost [4 , 24 ] 51175171
+Cost [4 , 25 ] 48050530
+Cost [5 , 1 ] 57013643
+Cost [5 , 2 ] 51266677
+Cost [5 , 3 ] 62827334
+Cost [5 , 4 ] 70791964
+Cost [5 , 5 ] 57628133
+Cost [5 , 6 ] 56943783
+Cost [5 , 7 ] 56832809
+Cost [5 , 8 ] 67736325
+Cost [5 , 9 ] 75941406
+Cost [5 , 10 ] 58989559
+Cost [5 , 11 ] 57644790
+Cost [5 , 12 ] 56526967
+Cost [5 , 13 ] 53080611
+Cost [5 , 14 ] 58856374
+Cost [5 , 15 ] 65932068
+Cost [5 , 16 ] 60536891
+Cost [5 , 17 ] 60556431
+Cost [5 , 18 ] 62042279
+Cost [5 , 19 ] 66218103
+Cost [5 , 20 ] 72663499
+Cost [5 , 21 ] 58391392
+Cost [5 , 22 ] 59318894
+Cost [5 , 23 ] 58744709
+Cost [5 , 24 ] 64168396
+Cost [5 , 25 ] 67814525
+Cost [6 , 1 ] 99312982
+Cost [6 , 2 ] 91628972
+Cost [6 , 3 ] 101334501
+Cost [6 , 4 ] 118756028
+Cost [6 , 5 ] 98381034
+Cost [6 , 6 ] 97563949
+Cost [6 , 7 ] 100491127
+Cost [6 , 8 ] 113166746
+Cost [6 , 9 ] 130333471
+Cost [6 , 10 ] 103130199
+Cost [6 , 11 ] 98915852
+Cost [6 , 12 ] 104251608
+Cost [6 , 13 ] 100867563
+Cost [6 , 14 ] 98789202
+Cost [6 , 15 ] 107935722
+Cost [6 , 16 ] 103070222
+Cost [6 , 17 ] 102061544
+Cost [6 , 18 ] 105487258
+Cost [6 , 19 ] 113604137
+Cost [6 , 20 ] 126046613
+Cost [6 , 21 ] 100813043
+Cost [6 , 22 ] 102240644
+Cost [6 , 23 ] 100168938
+Cost [6 , 24 ] 113136819
+Cost [6 , 25 ] 113710530
+Cost [7 , 1 ] 380609432
+Cost [7 , 2 ] 347979685
+Cost [7 , 3 ] 394390733
+Cost [7 , 4 ] 443749602
+Cost [7 , 5 ] 364264047
+Cost [7 , 6 ] 361168473
+Cost [7 , 7 ] 372258252
+Cost [7 , 8 ] 422574289
+Cost [7 , 9 ] 473275603
+Cost [7 , 10 ] 393151738
+Cost [7 , 11 ] 339359775
+Cost [7 , 12 ] 383542656
+Cost [7 , 13 ] 383349556
+Cost [7 , 14 ] 363688753
+Cost [7 , 15 ] 396237620
+Cost [7 , 16 ] 380763016
+Cost [7 , 17 ] 365018929
+Cost [7 , 18 ] 402081592
+Cost [7 , 19 ] 432832851
+Cost [7 , 20 ] 470080178
+Cost [7 , 21 ] 378575593
+Cost [7 , 22 ] 384601651
+Cost [7 , 23 ] 375606938
+Cost [7 , 24 ] 417586736
+Cost [7 , 25 ] 424634446
+Cost [8 , 1 ] 170337591
+Cost [8 , 2 ] 152787239
+Cost [8 , 3 ] 180992562
+Cost [8 , 4 ] 203603046
+Cost [8 , 5 ] 163002566
+Cost [8 , 6 ] 161580404
+Cost [8 , 7 ] 166214218
+Cost [8 , 8 ] 194928510
+Cost [8 , 9 ] 219933991
+Cost [8 , 10 ] 182110971
+Cost [8 , 11 ] 147983155
+Cost [8 , 12 ] 170938315
+Cost [8 , 13 ] 170973934
+Cost [8 , 14 ] 160500103
+Cost [8 , 15 ] 175473380
+Cost [8 , 16 ] 168569508
+Cost [8 , 17 ] 164139707
+Cost [8 , 18 ] 180508344
+Cost [8 , 19 ] 194636022
+Cost [8 , 20 ] 211155358
+Cost [8 , 21 ] 167890788
+Cost [8 , 22 ] 170468040
+Cost [8 , 23 ] 166381711
+Cost [8 , 24 ] 187038933
+Cost [8 , 25 ] 187444744
+Cost [9 , 1 ] 171350282
+Cost [9 , 2 ] 156304540
+Cost [9 , 3 ] 173225506
+Cost [9 , 4 ] 191171576
+Cost [9 , 5 ] 169727501
+Cost [9 , 6 ] 171599205
+Cost [9 , 7 ] 172940534
+Cost [9 , 8 ] 181439077
+Cost [9 , 9 ] 204742181
+Cost [9 , 10 ] 177997122
+Cost [9 , 11 ] 169380879
+Cost [9 , 12 ] 179462153
+Cost [9 , 13 ] 173351917
+Cost [9 , 14 ] 171690136
+Cost [9 , 15 ] 187616781
+Cost [9 , 16 ] 179144587
+Cost [9 , 17 ] 166977646
+Cost [9 , 18 ] 182101420
+Cost [9 , 19 ] 196235173
+Cost [9 , 20 ] 217900997
+Cost [9 , 21 ] 173962307
+Cost [9 , 22 ] 176448159
+Cost [9 , 23 ] 172840741
+Cost [9 , 24 ] 193774203
+Cost [9 , 25 ] 180738717
+Cost [10 , 1 ] 69663552
+Cost [10 , 2 ] 65328120
+Cost [10 , 3 ] 66923536
+Cost [10 , 4 ] 76432906
+Cost [10 , 5 ] 69074069
+Cost [10 , 6 ] 68557240
+Cost [10 , 7 ] 70408761
+Cost [10 , 8 ] 65884665
+Cost [10 , 9 ] 74349627
+Cost [10 , 10 ] 72078048
+Cost [10 , 11 ] 67425101
+Cost [10 , 12 ] 70779202
+Cost [10 , 13 ] 69083224
+Cost [10 , 14 ] 69332247
+Cost [10 , 15 ] 75117675
+Cost [10 , 16 ] 72040111
+Cost [10 , 17 ] 71402094
+Cost [10 , 18 ] 73568954
+Cost [10 , 19 ] 78703106
+Cost [10 , 20 ] 86573319
+Cost [10 , 21 ] 70612382
+Cost [10 , 22 ] 71515380
+Cost [10 , 23 ] 70204968
+Cost [10 , 24 ] 77809147
+Cost [10 , 25 ] 73241488
+Cost [11 , 1 ] 447895477
+Cost [11 , 2 ] 428780621
+Cost [11 , 3 ] 309966267
+Cost [11 , 4 ] 419789541
+Cost [11 , 5 ] 442018538
+Cost [11 , 6 ] 438553982
+Cost [11 , 7 ] 450965626
+Cost [11 , 8 ] 399725711
+Cost [11 , 9 ] 446567912
+Cost [11 , 10 ] 475151776
+Cost [11 , 11 ] 419573050
+Cost [11 , 12 ] 455374218
+Cost [11 , 13 ] 455076021
+Cost [11 , 14 ] 430753113
+Cost [11 , 15 ] 469535644
+Cost [11 , 16 ] 448905239
+Cost [11 , 17 ] 403393721
+Cost [11 , 18 ] 486269160
+Cost [11 , 19 ] 520685869
+Cost [11 , 20 ] 560447604
+Cost [11 , 21 ] 445110534
+Cost [11 , 22 ] 451163764
+Cost [11 , 23 ] 442379439
+Cost [11 , 24 ] 501697116
+Cost [11 , 25 ] 398395922
+Cost [12 , 1 ] 867927052
+Cost [12 , 2 ] 857080511
+Cost [12 , 3 ] 762625846
+Cost [12 , 4 ] 750169154
+Cost [12 , 5 ] 857228615
+Cost [12 , 6 ] 850921704
+Cost [12 , 7 ] 873515979
+Cost [12 , 8 ] 760296040
+Cost [12 , 9 ] 910827817
+Cost [12 , 10 ] 919589216
+Cost [12 , 11 ] 816368636
+Cost [12 , 12 ] 881541422
+Cost [12 , 13 ] 892389590
+Cost [12 , 14 ] 836720929
+Cost [12 , 15 ] 907321016
+Cost [12 , 16 ] 869765231
+Cost [12 , 17 ] 813786730
+Cost [12 , 18 ] 937782867
+Cost [12 , 19 ] 1000435369
+Cost [12 , 20 ] 1073110086
+Cost [12 , 21 ] 862857315
+Cost [12 , 22 ] 873876671
+Cost [12 , 23 ] 857885603
+Cost [12 , 24 ] 971125453
+Cost [12 , 25 ] 713268546
+Cost [13 , 1 ] 831607908
+Cost [13 , 2 ] 818407815
+Cost [13 , 3 ] 710857804
+Cost [13 , 4 ] 568563707
+Cost [13 , 5 ] 819618616
+Cost [13 , 6 ] 813817689
+Cost [13 , 7 ] 834599296
+Cost [13 , 8 ] 740568719
+Cost [13 , 9 ] 858683502
+Cost [13 , 10 ] 875632997
+Cost [13 , 11 ] 780962127
+Cost [13 , 12 ] 840637659
+Cost [13 , 13 ] 862167234
+Cost [13 , 14 ] 799412974
+Cost [13 , 15 ] 864349036
+Cost [13 , 16 ] 829806235
+Cost [13 , 17 ] 765155125
+Cost [13 , 18 ] 892367027
+Cost [13 , 19 ] 949993115
+Cost [13 , 20 ] 1016837365
+Cost [13 , 21 ] 823452519
+Cost [13 , 22 ] 833587827
+Cost [13 , 23 ] 818879673
+Cost [13 , 24 ] 924377865
+Cost [13 , 25 ] 610185588
+Cost [14 , 1 ] 218971350
+Cost [14 , 2 ] 217357949
+Cost [14 , 3 ] 185542224
+Cost [14 , 4 ] 192816052
+Cost [14 , 5 ] 216175300
+Cost [14 , 6 ] 214526981
+Cost [14 , 7 ] 220432023
+Cost [14 , 8 ] 198922373
+Cost [14 , 9 ] 232900781
+Cost [14 , 10 ] 232473322
+Cost [14 , 11 ] 205496493
+Cost [14 , 12 ] 222529483
+Cost [14 , 13 ] 225364665
+Cost [14 , 14 ] 210815591
+Cost [14 , 15 ] 229267012
+Cost [14 , 16 ] 219604430
+Cost [14 , 17 ] 217416938
+Cost [14 , 18 ] 237228255
+Cost [14 , 19 ] 253602566
+Cost [14 , 20 ] 273893885
+Cost [14 , 21 ] 217646368
+Cost [14 , 22 ] 220526291
+Cost [14 , 23 ] 216347005
+Cost [14 , 24 ] 245942382
+Cost [14 , 25 ] 177406134
+Cost [15 , 1 ] 1775257011
+Cost [15 , 2 ] 1698814525
+Cost [15 , 3 ] 1508152384
+Cost [15 , 4 ] 1757775728
+Cost [15 , 5 ] 1751693343
+Cost [15 , 6 ] 1737802158
+Cost [15 , 7 ] 1787566813
+Cost [15 , 8 ] 1713440442
+Cost [15 , 9 ] 1790520030
+Cost [15 , 10 ] 1840153133
+Cost [15 , 11 ] 1721525665
+Cost [15 , 12 ] 1805243122
+Cost [15 , 13 ] 1759659126
+Cost [15 , 14 ] 1766352278
+Cost [15 , 15 ] 1921851357
+Cost [15 , 16 ] 1839133470
+Cost [15 , 17 ] 1659870980
+Cost [15 , 18 ] 1880225264
+Cost [15 , 19 ] 2018219520
+Cost [15 , 20 ] 2226536272
+Cost [15 , 21 ] 1800759400
+Cost [15 , 22 ] 1825029905
+Cost [15 , 23 ] 1806535091
+Cost [15 , 24 ] 2002554978
+Cost [15 , 25 ] 1671997722
+Cost [16 , 1 ] 152100297
+Cost [16 , 2 ] 145963062
+Cost [16 , 3 ] 125403756
+Cost [16 , 4 ] 146527760
+Cost [16 , 5 ] 150213379
+Cost [16 , 6 ] 149101009
+Cost [16 , 7 ] 153086034
+Cost [16 , 8 ] 122045243
+Cost [16 , 9 ] 160645619
+Cost [16 , 10 ] 160851516
+Cost [16 , 11 ] 143006774
+Cost [16 , 12 ] 154501507
+Cost [16 , 13 ] 154405765
+Cost [16 , 14 ] 146596373
+Cost [16 , 15 ] 159048337
+Cost [16 , 16 ] 152269959
+Cost [16 , 17 ] 137812054
+Cost [16 , 18 ] 164420991
+Cost [16 , 19 ] 175471213
+Cost [16 , 20 ] 188237571
+Cost [16 , 21 ] 151206131
+Cost [16 , 22 ] 153149650
+Cost [16 , 23 ] 150329255
+Cost [16 , 24 ] 169374467
+Cost [16 , 25 ] 137958899
+Cost [17 , 1 ] 189611976
+Cost [17 , 2 ] 181979244
+Cost [17 , 3 ] 156778433
+Cost [17 , 4 ] 177363947
+Cost [17 , 5 ] 187265262
+Cost [17 , 6 ] 185881834
+Cost [17 , 7 ] 190837914
+Cost [17 , 8 ] 148052646
+Cost [17 , 9 ] 204782244
+Cost [17 , 10 ] 200495658
+Cost [17 , 11 ] 178302579
+Cost [17 , 12 ] 192598304
+Cost [17 , 13 ] 192479231
+Cost [17 , 14 ] 182766878
+Cost [17 , 15 ] 198253087
+Cost [17 , 16 ] 189822980
+Cost [17 , 17 ] 171842029
+Cost [17 , 18 ] 204934929
+Cost [17 , 19 ] 218677826
+Cost [17 , 20 ] 234555041
+Cost [17 , 21 ] 188499923
+Cost [17 , 22 ] 190917032
+Cost [17 , 23 ] 187409373
+Cost [17 , 24 ] 211095449
+Cost [17 , 25 ] 172024657
+Cost [18 , 1 ] 392944587
+Cost [18 , 2 ] 405040431
+Cost [18 , 3 ] 436185158
+Cost [18 , 4 ] 478859416
+Cost [18 , 5 ] 396111010
+Cost [18 , 6 ] 390939664
+Cost [18 , 7 ] 393660382
+Cost [18 , 8 ] 468169203
+Cost [18 , 9 ] 486281825
+Cost [18 , 10 ] 435511384
+Cost [18 , 11 ] 348609755
+Cost [18 , 12 ] 399774521
+Cost [18 , 13 ] 413326358
+Cost [18 , 14 ] 360182977
+Cost [18 , 15 ] 390045397
+Cost [18 , 16 ] 382148953
+Cost [18 , 17 ] 410197859
+Cost [18 , 18 ] 448755598
+Cost [18 , 19 ] 470049736
+Cost [18 , 20 ] 504673371
+Cost [18 , 21 ] 383179283
+Cost [18 , 22 ] 391811632
+Cost [18 , 23 ] 378277899
+Cost [18 , 24 ] 448029720
+Cost [18 , 25 ] 457003935
+Cost [19 , 1 ] 440965648
+Cost [19 , 2 ] 460600641
+Cost [19 , 3 ] 485983391
+Cost [19 , 4 ] 533401387
+Cost [19 , 5 ] 442574235
+Cost [19 , 6 ] 437240974
+Cost [19 , 7 ] 437121043
+Cost [19 , 8 ] 521120962
+Cost [19 , 9 ] 458773555
+Cost [19 , 10 ] 477434409
+Cost [19 , 11 ] 404328199
+Cost [19 , 12 ] 437724629
+Cost [19 , 13 ] 452854493
+Cost [19 , 14 ] 410884165
+Cost [19 , 15 ] 446842106
+Cost [19 , 16 ] 433968757
+Cost [19 , 17 ] 446504700
+Cost [19 , 18 ] 492080154
+Cost [19 , 19 ] 515680241
+Cost [19 , 20 ] 559615754
+Cost [19 , 21 ] 433759627
+Cost [19 , 22 ] 442590848
+Cost [19 , 23 ] 428949270
+Cost [19 , 24 ] 497387217
+Cost [19 , 25 ] 509748485
+Cost [20 , 1 ] 779395950
+Cost [20 , 2 ] 858218676
+Cost [20 , 3 ] 967377857
+Cost [20 , 4 ] 1036504768
+Cost [20 , 5 ] 795213199
+Cost [20 , 6 ] 782849433
+Cost [20 , 7 ] 824742095
+Cost [20 , 8 ] 1014271916
+Cost [20 , 9 ] 877041822
+Cost [20 , 10 ] 818378710
+Cost [20 , 11 ] 820921063
+Cost [20 , 12 ] 747720068
+Cost [20 , 13 ] 787063683
+Cost [20 , 14 ] 816355289
+Cost [20 , 15 ] 928639061
+Cost [20 , 16 ] 839204378
+Cost [20 , 17 ] 870986765
+Cost [20 , 18 ] 883474944
+Cost [20 , 19 ] 971157181
+Cost [20 , 20 ] 1029964441
+Cost [20 , 21 ] 804700900
+Cost [20 , 22 ] 822226427
+Cost [20 , 23 ] 811429579
+Cost [20 , 24 ] 912160437
+Cost [20 , 25 ] 991389426
+Cost [21 , 1 ] 1572821488
+Cost [21 , 2 ] 1640528931
+Cost [21 , 3 ] 1835727966
+Cost [21 , 4 ] 2006962883
+Cost [21 , 5 ] 1577776198
+Cost [21 , 6 ] 1558948475
+Cost [21 , 7 ] 1560799440
+Cost [21 , 8 ] 1960731382
+Cost [21 , 9 ] 2054625395
+Cost [21 , 10 ] 1275663244
+Cost [21 , 11 ] 1637284894
+Cost [21 , 12 ] 1562440947
+Cost [21 , 13 ] 1521911593
+Cost [21 , 14 ] 1621724025
+Cost [21 , 15 ] 1826771240
+Cost [21 , 16 ] 1668061113
+Cost [21 , 17 ] 1646321115
+Cost [21 , 18 ] 1592667918
+Cost [21 , 19 ] 1772027109
+Cost [21 , 20 ] 1934903114
+Cost [21 , 21 ] 1609782262
+Cost [21 , 22 ] 1638574008
+Cost [21 , 23 ] 1619211996
+Cost [21 , 24 ] 1702077295
+Cost [21 , 25 ] 1922180829
+Cost [22 , 1 ] 917542033
+Cost [22 , 2 ] 961545904
+Cost [22 , 3 ] 1012238740
+Cost [22 , 4 ] 1105410740
+Cost [22 , 5 ] 916817960
+Cost [22 , 6 ] 905904068
+Cost [22 , 7 ] 904265423
+Cost [22 , 8 ] 1084838226
+Cost [22 , 9 ] 1207318140
+Cost [22 , 10 ] 1018755008
+Cost [22 , 11 ] 851285040
+Cost [22 , 12 ] 948781484
+Cost [22 , 13 ] 973745198
+Cost [22 , 14 ] 851155466
+Cost [22 , 15 ] 925812594
+Cost [22 , 16 ] 898722206
+Cost [22 , 17 ] 856291062
+Cost [22 , 18 ] 1012478002
+Cost [22 , 19 ] 1089476068
+Cost [22 , 20 ] 1156619285
+Cost [22 , 21 ] 898118024
+Cost [22 , 22 ] 916278494
+Cost [22 , 23 ] 888253644
+Cost [22 , 24 ] 1021398702
+Cost [22 , 25 ] 1059863851
+Cost [23 , 1 ] 1539742576
+Cost [23 , 2 ] 1692083897
+Cost [23 , 3 ] 1814591367
+Cost [23 , 4 ] 1978829290
+Cost [23 , 5 ] 1541392822
+Cost [23 , 6 ] 1522299455
+Cost [23 , 7 ] 1523197464
+Cost [23 , 8 ] 1937686491
+Cost [23 , 9 ] 2098395703
+Cost [23 , 10 ] 1730287056
+Cost [23 , 11 ] 1615867304
+Cost [23 , 12 ] 1693535893
+Cost [23 , 13 ] 1695771556
+Cost [23 , 14 ] 1422689202
+Cost [23 , 15 ] 1639214271
+Cost [23 , 16 ] 1504597547
+Cost [23 , 17 ] 1369863759
+Cost [23 , 18 ] 1769289282
+Cost [23 , 19 ] 1903599165
+Cost [23 , 20 ] 1950446673
+Cost [23 , 21 ] 1505227826
+Cost [23 , 22 ] 1536841622
+Cost [23 , 23 ] 1487787833
+Cost [23 , 24 ] 1732445560
+Cost [23 , 25 ] 1828345202
+Cost [24 , 1 ] 3079623828
+Cost [24 , 2 ] 3810327230
+Cost [24 , 3 ] 3978280959
+Cost [24 , 4 ] 4352157388
+Cost [24 , 5 ] 3198751147
+Cost [24 , 6 ] 3135086820
+Cost [24 , 7 ] 3331205047
+Cost [24 , 8 ] 4258498613
+Cost [24 , 9 ] 4899434863
+Cost [24 , 10 ] 3874490941
+Cost [24 , 11 ] 3432067242
+Cost [24 , 12 ] 3584896599
+Cost [24 , 13 ] 3691228477
+Cost [24 , 14 ] 2760022678
+Cost [24 , 15 ] 3367760429
+Cost [24 , 16 ] 2763296386
+Cost [24 , 17 ] 3359443573
+Cost [24 , 18 ] 3855198942
+Cost [24 , 19 ] 4160946229
+Cost [24 , 20 ] 4239084371
+Cost [24 , 21 ] 2904770005
+Cost [24 , 22 ] 3031885854
+Cost [24 , 23 ] 2800158616
+Cost [24 , 24 ] 3742819707
+Cost [24 , 25 ] 4156401752
+Cost [25 , 1 ] 491861186
+Cost [25 , 2 ] 527180878
+Cost [25 , 3 ] 511911986
+Cost [25 , 4 ] 562390371
+Cost [25 , 5 ] 476666302
+Cost [25 , 6 ] 472510850
+Cost [25 , 7 ] 487397602
+Cost [25 , 8 ] 549745167
+Cost [25 , 9 ] 633393622
+Cost [25 , 10 ] 544118511
+Cost [25 , 11 ] 506418176
+Cost [25 , 12 ] 536479251
+Cost [25 , 13 ] 526197419
+Cost [25 , 14 ] 468969406
+Cost [25 , 15 ] 532467914
+Cost [25 , 16 ] 492547610
+Cost [25 , 17 ] 378850618
+Cost [25 , 18 ] 571501145
+Cost [25 , 19 ] 612781173
+Cost [25 , 20 ] 618712281
+Cost [25 , 21 ] 482900345
+Cost [25 , 22 ] 491765505
+Cost [25 , 23 ] 478270656
+Cost [25 , 24 ] 541510417
+Cost [25 , 25 ] 538270007
+Cost [26 , 1 ] 895300285
+Cost [26 , 2 ] 979804884
+Cost [26 , 3 ] 958110025
+Cost [26 , 4 ] 1066085671
+Cost [26 , 5 ] 867872411
+Cost [26 , 6 ] 892184776
+Cost [26 , 7 ] 870971901
+Cost [26 , 8 ] 1027639002
+Cost [26 , 9 ] 1219562088
+Cost [26 , 10 ] 993956569
+Cost [26 , 11 ] 944875705
+Cost [26 , 12 ] 978428761
+Cost [26 , 13 ] 977997504
+Cost [26 , 14 ] 848599795
+Cost [26 , 15 ] 966352018
+Cost [26 , 16 ] 884374737
+Cost [26 , 17 ] 735002401
+Cost [26 , 18 ] 1015986563
+Cost [26 , 19 ] 1091850077
+Cost [26 , 20 ] 1122909041
+Cost [26 , 21 ] 878153511
+Cost [26 , 22 ] 888812283
+Cost [26 , 23 ] 869350400
+Cost [26 , 24 ] 989163472
+Cost [26 , 25 ] 1000184239
+Cost [27 , 1 ] 1049089700
+Cost [27 , 2 ] 1105242268
+Cost [27 , 3 ] 1129815793
+Cost [27 , 4 ] 1255061650
+Cost [27 , 5 ] 1031458193
+Cost [27 , 6 ] 1019878614
+Cost [27 , 7 ] 1017664057
+Cost [27 , 8 ] 1210465612
+Cost [27 , 9 ] 1370730640
+Cost [27 , 10 ] 1123808903
+Cost [27 , 11 ] 999726099
+Cost [27 , 12 ] 1095782861
+Cost [27 , 13 ] 1119070857
+Cost [27 , 14 ] 982253489
+Cost [27 , 15 ] 1070151050
+Cost [27 , 16 ] 1033238343
+Cost [27 , 17 ] 900323826
+Cost [27 , 18 ] 1149362494
+Cost [27 , 19 ] 1237360031
+Cost [27 , 20 ] 1304974607
+Cost [27 , 21 ] 1030031440
+Cost [27 , 22 ] 838711746
+Cost [27 , 23 ] 1020181125
+Cost [27 , 24 ] 1154759830
+Cost [27 , 25 ] 1178619585
+Cost [28 , 1 ] 1290869237
+Cost [28 , 2 ] 1371706267
+Cost [28 , 3 ] 1341594773
+Cost [28 , 4 ] 1491460140
+Cost [28 , 5 ] 1225184683
+Cost [28 , 6 ] 1214585151
+Cost [28 , 7 ] 1252557583
+Cost [28 , 8 ] 1438097883
+Cost [28 , 9 ] 1575870288
+Cost [28 , 10 ] 1414909990
+Cost [28 , 11 ] 1280704925
+Cost [28 , 12 ] 1350966036
+Cost [28 , 13 ] 1367725091
+Cost [28 , 14 ] 1236442189
+Cost [28 , 15 ] 1395662203
+Cost [28 , 16 ] 1295177959
+Cost [28 , 17 ] 1052593337
+Cost [28 , 18 ] 1484756334
+Cost [28 , 19 ] 1590051499
+Cost [28 , 20 ] 1605180292
+Cost [28 , 21 ] 1270491856
+Cost [28 , 22 ] 1291840399
+Cost [28 , 23 ] 1259738343
+Cost [28 , 24 ] 1408257386
+Cost [28 , 25 ] 1399991900
+Cost [29 , 1 ] 1268996939
+Cost [29 , 2 ] 1388996731
+Cost [29 , 3 ] 1358818859
+Cost [29 , 4 ] 1509014592
+Cost [29 , 5 ] 1200828075
+Cost [29 , 6 ] 1233076066
+Cost [29 , 7 ] 1228261316
+Cost [29 , 8 ] 1455534702
+Cost [29 , 9 ] 1603449881
+Cost [29 , 10 ] 1399334823
+Cost [29 , 11 ] 1284020091
+Cost [29 , 12 ] 1335249909
+Cost [29 , 13 ] 1353521768
+Cost [29 , 14 ] 1200416526
+Cost [29 , 15 ] 1362625377
+Cost [29 , 16 ] 1260630998
+Cost [29 , 17 ] 1088436814
+Cost [29 , 18 ] 1429978873
+Cost [29 , 19 ] 1535506153
+Cost [29 , 20 ] 1572806195
+Cost [29 , 21 ] 1246940647
+Cost [29 , 22 ] 1243174575
+Cost [29 , 23 ] 1244241268
+Cost [29 , 24 ] 1392667554
+Cost [29 , 25 ] 1417344717
+Cost [30 , 1 ] 1724030086
+Cost [30 , 2 ] 1921366192
+Cost [30 , 3 ] 1964507895
+Cost [30 , 4 ] 2181652883
+Cost [30 , 5 ] 1723823830
+Cost [30 , 6 ] 1700818518
+Cost [30 , 7 ] 1779384285
+Cost [30 , 8 ] 2104334508
+Cost [30 , 9 ] 2350188184
+Cost [30 , 10 ] 1950537251
+Cost [30 , 11 ] 1834488446
+Cost [30 , 12 ] 1922751961
+Cost [30 , 13 ] 1962831630
+Cost [30 , 14 ] 1614561320
+Cost [30 , 15 ] 1860700952
+Cost [30 , 16 ] 1707700887
+Cost [30 , 17 ] 1573603943
+Cost [30 , 18 ] 1994840787
+Cost [30 , 19 ] 2147406504
+Cost [30 , 20 ] 2201332918
+Cost [30 , 21 ] 1682073659
+Cost [30 , 22 ] 1669875941
+Cost [30 , 23 ] 1688678898
+Cost [30 , 24 ] 1940898069
+Cost [30 , 25 ] 2049121462
+Cost [31 , 1 ] 62211676
+Cost [31 , 2 ] 64361243
+Cost [31 , 3 ] 72689292
+Cost [31 , 4 ] 78719194
+Cost [31 , 5 ] 61487350
+Cost [31 , 6 ] 60992845
+Cost [31 , 7 ] 62764390
+Cost [31 , 8 ] 77214396
+Cost [31 , 9 ] 75191546
+Cost [31 , 10 ] 63468439
+Cost [31 , 11 ] 63985957
+Cost [31 , 12 ] 63279135
+Cost [31 , 13 ] 62389242
+Cost [31 , 14 ] 63131326
+Cost [31 , 15 ] 70269912
+Cost [31 , 16 ] 64943596
+Cost [31 , 17 ] 65730089
+Cost [31 , 18 ] 60118047
+Cost [31 , 19 ] 58023834
+Cost [31 , 20 ] 63644055
+Cost [31 , 21 ] 63119521
+Cost [31 , 22 ] 63983514
+Cost [31 , 23 ] 63325127
+Cost [31 , 24 ] 60687300
+Cost [31 , 25 ] 75665629
+Cost [32 , 1 ] 607088977
+Cost [32 , 2 ] 631466114
+Cost [32 , 3 ] 700481714
+Cost [32 , 4 ] 762785616
+Cost [32 , 5 ] 584058958
+Cost [32 , 6 ] 578930012
+Cost [32 , 7 ] 597304268
+Cost [32 , 8 ] 747178033
+Cost [32 , 9 ] 831183216
+Cost [32 , 10 ] 611582396
+Cost [32 , 11 ] 629421191
+Cost [32 , 12 ] 607859821
+Cost [32 , 13 ] 594691426
+Cost [32 , 14 ] 622622647
+Cost [32 , 15 ] 675150660
+Cost [32 , 16 ] 640419575
+Cost [32 , 17 ] 647066133
+Cost [32 , 18 ] 478268896
+Cost [32 , 19 ] 597605516
+Cost [32 , 20 ] 685986742
+Cost [32 , 21 ] 619549910
+Cost [32 , 22 ] 629742522
+Cost [32 , 23 ] 622637486
+Cost [32 , 24 ] 613071270
+Cost [32 , 25 ] 731114402
+Cost [33 , 1 ] 1195655919
+Cost [33 , 2 ] 1228326251
+Cost [33 , 3 ] 1406550014
+Cost [33 , 4 ] 1527195584
+Cost [33 , 5 ] 1157651289
+Cost [33 , 6 ] 1170716780
+Cost [33 , 7 ] 1117067623
+Cost [33 , 8 ] 1496972988
+Cost [33 , 9 ] 1613646613
+Cost [33 , 10 ] 1257572677
+Cost [33 , 11 ] 1231290874
+Cost [33 , 12 ] 1252126297
+Cost [33 , 13 ] 1230564225
+Cost [33 , 14 ] 1214126326
+Cost [33 , 15 ] 1357498841
+Cost [33 , 16 ] 1250524246
+Cost [33 , 17 ] 1303115830
+Cost [33 , 18 ] 1108678968
+Cost [33 , 19 ] 974649341
+Cost [33 , 20 ] 1314549655
+Cost [33 , 21 ] 1213889240
+Cost [33 , 22 ] 1231241806
+Cost [33 , 23 ] 1218018658
+Cost [33 , 24 ] 1167973642
+Cost [33 , 25 ] 1465867296
+Cost [34 , 1 ] 1628318562
+Cost [34 , 2 ] 1624578749
+Cost [34 , 3 ] 1907786843
+Cost [34 , 4 ] 2067661449
+Cost [34 , 5 ] 1490188486
+Cost [34 , 6 ] 1507502343
+Cost [34 , 7 ] 1481569710
+Cost [34 , 8 ] 2027611693
+Cost [34 , 9 ] 2243172757
+Cost [34 , 10 ] 1661766963
+Cost [34 , 11 ] 1675540556
+Cost [34 , 12 ] 1656728687
+Cost [34 , 13 ] 1688104978
+Cost [34 , 14 ] 1652794794
+Cost [34 , 15 ] 1842786223
+Cost [34 , 16 ] 1701027838
+Cost [34 , 17 ] 1770720067
+Cost [34 , 18 ] 1555254551
+Cost [34 , 19 ] 1477057801
+Cost [34 , 20 ] 1698103822
+Cost [34 , 21 ] 1652480617
+Cost [34 , 22 ] 1675475533
+Cost [34 , 23 ] 1657952754
+Cost [34 , 24 ] 1473681043
+Cost [34 , 25 ] 1986391694
+Cost [35 , 1 ] 89358745
+Cost [35 , 2 ] 100500908
+Cost [35 , 3 ] 109939224
+Cost [35 , 4 ] 118700347
+Cost [35 , 5 ] 81219043
+Cost [35 , 6 ] 82164238
+Cost [35 , 7 ] 80701023
+Cost [35 , 8 ] 116480683
+Cost [35 , 9 ] 128248559
+Cost [35 , 10 ] 98904250
+Cost [35 , 11 ] 97426839
+Cost [35 , 12 ] 96399864
+Cost [35 , 13 ] 97336234
+Cost [35 , 14 ] 90295663
+Cost [35 , 15 ] 100667646
+Cost [35 , 16 ] 92928794
+Cost [35 , 17 ] 94071527
+Cost [35 , 18 ] 92525371
+Cost [35 , 19 ] 95071031
+Cost [35 , 20 ] 78518681
+Cost [35 , 21 ] 90278512
+Cost [35 , 22 ] 91533847
+Cost [35 , 23 ] 90577246
+Cost [35 , 24 ] 81303585
+Cost [35 , 25 ] 114263681
+Cost [36 , 1 ] 349182240
+Cost [36 , 2 ] 391600423
+Cost [36 , 3 ] 427532060
+Cost [36 , 4 ] 460885629
+Cost [36 , 5 ] 318194420
+Cost [36 , 6 ] 321792776
+Cost [36 , 7 ] 307017306
+Cost [36 , 8 ] 452435376
+Cost [36 , 9 ] 497235644
+Cost [36 , 10 ] 385521949
+Cost [36 , 11 ] 379897449
+Cost [36 , 12 ] 375987760
+Cost [36 , 13 ] 379552517
+Cost [36 , 14 ] 352749086
+Cost [36 , 15 ] 392235192
+Cost [36 , 16 ] 362773407
+Cost [36 , 17 ] 367123786
+Cost [36 , 18 ] 361237574
+Cost [36 , 19 ] 370802222
+Cost [36 , 20 ] 259664180
+Cost [36 , 21 ] 352683790
+Cost [36 , 22 ] 357462846
+Cost [36 , 23 ] 353821070
+Cost [36 , 24 ] 324163031
+Cost [36 , 25 ] 443995256
+Cost [37 , 1 ] 427187016
+Cost [37 , 2 ] 502030892
+Cost [37 , 3 ] 545893599
+Cost [37 , 4 ] 595559266
+Cost [37 , 5 ] 428353748
+Cost [37 , 6 ] 420202132
+Cost [37 , 7 ] 445974728
+Cost [37 , 8 ] 583117654
+Cost [37 , 9 ] 650082536
+Cost [37 , 10 ] 518690526
+Cost [37 , 11 ] 484537427
+Cost [37 , 12 ] 481625095
+Cost [37 , 13 ] 495027604
+Cost [37 , 14 ] 424025513
+Cost [37 , 15 ] 490298340
+Cost [37 , 16 ] 435104674
+Cost [37 , 17 ] 457205902
+Cost [37 , 18 ] 515153319
+Cost [37 , 19 ] 555768725
+Cost [37 , 20 ] 570124789
+Cost [37 , 21 ] 410542440
+Cost [37 , 22 ] 394745284
+Cost [37 , 23 ] 416765955
+Cost [37 , 24 ] 498899482
+Cost [37 , 25 ] 573720681
+Cost [38 , 1 ] 1312660876
+Cost [38 , 2 ] 1693702213
+Cost [38 , 3 ] 1793264652
+Cost [38 , 4 ] 1960120688
+Cost [38 , 5 ] 1383930440
+Cost [38 , 6 ] 1350886707
+Cost [38 , 7 ] 1458243128
+Cost [38 , 8 ] 1918322033
+Cost [38 , 9 ] 2143296253
+Cost [38 , 10 ] 1686325034
+Cost [38 , 11 ] 1563500807
+Cost [38 , 12 ] 1538930445
+Cost [38 , 13 ] 1596085447
+Cost [38 , 14 ] 1311607609
+Cost [38 , 15 ] 1555560125
+Cost [38 , 16 ] 1329215865
+Cost [38 , 17 ] 1508777206
+Cost [38 , 18 ] 1739701637
+Cost [38 , 19 ] 1826440979
+Cost [38 , 20 ] 1874671397
+Cost [38 , 21 ] 1200366144
+Cost [38 , 22 ] 1273243486
+Cost [38 , 23 ] 1241279964
+Cost [38 , 24 ] 1694014378
+Cost [38 , 25 ] 1886752101
+Cost [39 , 1 ] 316676089
+Cost [39 , 2 ] 357531678
+Cost [39 , 3 ] 392139672
+Cost [39 , 4 ] 426948711
+Cost [39 , 5 ] 297891828
+Cost [39 , 6 ] 302370818
+Cost [39 , 7 ] 283045294
+Cost [39 , 8 ] 416125605
+Cost [39 , 9 ] 459275529
+Cost [39 , 10 ] 351677122
+Cost [39 , 11 ] 345771790
+Cost [39 , 12 ] 342494152
+Cost [39 , 13 ] 347025649
+Cost [39 , 14 ] 320111539
+Cost [39 , 15 ] 358143063
+Cost [39 , 16 ] 329766586
+Cost [39 , 17 ] 333956707
+Cost [39 , 18 ] 339012908
+Cost [39 , 19 ] 349566321
+Cost [39 , 20 ] 311398354
+Cost [39 , 21 ] 320048649
+Cost [39 , 22 ] 324651655
+Cost [39 , 23 ] 321144034
+Cost [39 , 24 ] 274619246
+Cost [39 , 25 ] 407996400
+Cost [40 , 1 ] 1039902716
+Cost [40 , 2 ] 1141893630
+Cost [40 , 3 ] 1255011788
+Cost [40 , 4 ] 1368787073
+Cost [40 , 5 ] 934762551
+Cost [40 , 6 ] 951282171
+Cost [40 , 7 ] 878714876
+Cost [40 , 8 ] 1333411146
+Cost [40 , 9 ] 1474449080
+Cost [40 , 10 ] 1122757686
+Cost [40 , 11 ] 1103455782
+Cost [40 , 12 ] 1090748712
+Cost [40 , 13 ] 1107554088
+Cost [40 , 14 ] 1019583821
+Cost [40 , 15 ] 1143891977
+Cost [40 , 16 ] 1051141880
+Cost [40 , 17 ] 1064837523
+Cost [40 , 18 ] 1072685272
+Cost [40 , 19 ] 1106224022
+Cost [40 , 20 ] 1062583244
+Cost [40 , 21 ] 1053099321
+Cost [40 , 22 ] 1070355202
+Cost [40 , 23 ] 1058509208
+Cost [40 , 24 ] 794798653
+Cost [40 , 25 ] 1306840388
+Cost [41 , 1 ] 1287760563
+Cost [41 , 2 ] 1426179401
+Cost [41 , 3 ] 1569817098
+Cost [41 , 4 ] 1703148902
+Cost [41 , 5 ] 1147387450
+Cost [41 , 6 ] 1170778301
+Cost [41 , 7 ] 1065424085
+Cost [41 , 8 ] 1669368785
+Cost [41 , 9 ] 1848459079
+Cost [41 , 10 ] 1427199437
+Cost [41 , 11 ] 1376864554
+Cost [41 , 12 ] 1406004675
+Cost [41 , 13 ] 1382574970
+Cost [41 , 14 ] 1314058280
+Cost [41 , 15 ] 1428716906
+Cost [41 , 16 ] 1351635245
+Cost [41 , 17 ] 1328333378
+Cost [41 , 18 ] 1366345437
+Cost [41 , 19 ] 1409060224
+Cost [41 , 20 ] 1407282836
+Cost [41 , 21 ] 1306474405
+Cost [41 , 22 ] 1328621118
+Cost [41 , 23 ] 1313378965
+Cost [41 , 24 ] 1064289387
+Cost [41 , 25 ] 1635629175
+Cost [42 , 1 ] 645253535
+Cost [42 , 2 ] 632778325
+Cost [42 , 3 ] 556637234
+Cost [42 , 4 ] 489741300
+Cost [42 , 5 ] 635447229
+Cost [42 , 6 ] 631180541
+Cost [42 , 7 ] 646465790
+Cost [42 , 8 ] 574735884
+Cost [42 , 9 ] 644618450
+Cost [42 , 10 ] 674078113
+Cost [42 , 11 ] 604248376
+Cost [42 , 12 ] 648338406
+Cost [42 , 13 ] 655677299
+Cost [42 , 14 ] 618016902
+Cost [42 , 15 ] 665778555
+Cost [42 , 16 ] 640371697
+Cost [42 , 17 ] 582347200
+Cost [42 , 18 ] 686386296
+Cost [42 , 19 ] 728771330
+Cost [42 , 20 ] 777936490
+Cost [42 , 21 ] 639255099
+Cost [42 , 22 ] 646709802
+Cost [42 , 23 ] 635891687
+Cost [42 , 24 ] 705583802
+Cost [42 , 25 ] 319680296
+Cost [43 , 1 ] 496584082
+Cost [43 , 2 ] 513684238
+Cost [43 , 3 ] 570090259
+Cost [43 , 4 ] 624896915
+Cost [43 , 5 ] 478101231
+Cost [43 , 6 ] 491494642
+Cost [43 , 7 ] 488965721
+Cost [43 , 8 ] 608392997
+Cost [43 , 9 ] 677298395
+Cost [43 , 10 ] 501972345
+Cost [43 , 11 ] 515014851
+Cost [43 , 12 ] 496931854
+Cost [43 , 13 ] 482739016
+Cost [43 , 14 ] 509503141
+Cost [43 , 15 ] 552819360
+Cost [43 , 16 ] 524068954
+Cost [43 , 17 ] 514196569
+Cost [43 , 18 ] 521583242
+Cost [43 , 19 ] 551221862
+Cost [43 , 20 ] 613532483
+Cost [43 , 21 ] 506891702
+Cost [43 , 22 ] 515288898
+Cost [43 , 23 ] 509452621
+Cost [43 , 24 ] 542191502
+Cost [43 , 25 ] 598723717
+Cost [44 , 1 ] 42627439
+Cost [44 , 2 ] 48948780
+Cost [44 , 3 ] 54105703
+Cost [44 , 4 ] 58965342
+Cost [44 , 5 ] 34061567
+Cost [44 , 6 ] 35970100
+Cost [44 , 7 ] 37153422
+Cost [44 , 8 ] 57679838
+Cost [44 , 9 ] 64109591
+Cost [44 , 10 ] 49076302
+Cost [44 , 11 ] 48911510
+Cost [44 , 12 ] 47473200
+Cost [44 , 13 ] 48614972
+Cost [44 , 14 ] 43923603
+Cost [44 , 15 ] 49951979
+Cost [44 , 16 ] 45154134
+Cost [44 , 17 ] 45417703
+Cost [44 , 18 ] 51317741
+Cost [44 , 19 ] 55217502
+Cost [44 , 20 ] 51360047
+Cost [44 , 21 ] 43305834
+Cost [44 , 22 ] 44243927
+Cost [44 , 23 ] 43664589
+Cost [44 , 24 ] 45711097
+Cost [44 , 25 ] 56541229
+Cost [45 , 1 ] 624688093
+Cost [45 , 2 ] 778137861
+Cost [45 , 3 ] 822004825
+Cost [45 , 4 ] 898057412
+Cost [45 , 5 ] 625224437
+Cost [45 , 6 ] 635377124
+Cost [45 , 7 ] 656826013
+Cost [45 , 8 ] 879005683
+Cost [45 , 9 ] 981548401
+Cost [45 , 10 ] 775330048
+Cost [45 , 11 ] 720413822
+Cost [45 , 12 ] 711279664
+Cost [45 , 13 ] 735625515
+Cost [45 , 14 ] 613136299
+Cost [45 , 15 ] 720745524
+Cost [45 , 16 ] 624656091
+Cost [45 , 17 ] 695154024
+Cost [45 , 18 ] 799010638
+Cost [45 , 19 ] 837126516
+Cost [45 , 20 ] 849541817
+Cost [45 , 21 ] 572577051
+Cost [45 , 22 ] 588398101
+Cost [45 , 23 ] 591030521
+Cost [45 , 24 ] 772502938
+Cost [45 , 25 ] 859397269
+Cost [46 , 1 ] 1172312962
+Cost [46 , 2 ] 1363159682
+Cost [46 , 3 ] 1508064937
+Cost [46 , 4 ] 1644616739
+Cost [46 , 5 ] 889770227
+Cost [46 , 6 ] 961356672
+Cost [46 , 7 ] 1036944747
+Cost [46 , 8 ] 1608495137
+Cost [46 , 9 ] 1789165847
+Cost [46 , 10 ] 1410588224
+Cost [46 , 11 ] 1358968686
+Cost [46 , 12 ] 1314195481
+Cost [46 , 13 ] 1348524912
+Cost [46 , 14 ] 1213496503
+Cost [46 , 15 ] 1384642590
+Cost [46 , 16 ] 1247031695
+Cost [46 , 17 ] 1308456690
+Cost [46 , 18 ] 1429725531
+Cost [46 , 19 ] 1539305568
+Cost [46 , 20 ] 1430914269
+Cost [46 , 21 ] 1192987891
+Cost [46 , 22 ] 1220694151
+Cost [46 , 23 ] 1204118427
+Cost [46 , 24 ] 1264272226
+Cost [46 , 25 ] 1581609638
+Cost [47 , 1 ] 860293660
+Cost [47 , 2 ] 1082067014
+Cost [47 , 3 ] 1165237382
+Cost [47 , 4 ] 1275967671
+Cost [47 , 5 ] 826304569
+Cost [47 , 6 ] 797158762
+Cost [47 , 7 ] 885485852
+Cost [47 , 8 ] 1244310033
+Cost [47 , 9 ] 1386559198
+Cost [47 , 10 ] 1078399096
+Cost [47 , 11 ] 1037412420
+Cost [47 , 12 ] 990784862
+Cost [47 , 13 ] 1023893966
+Cost [47 , 14 ] 923835325
+Cost [47 , 15 ] 1061759927
+Cost [47 , 16 ] 948269502
+Cost [47 , 17 ] 1008199391
+Cost [47 , 18 ] 1110983565
+Cost [47 , 19 ] 1163288520
+Cost [47 , 20 ] 1164422868
+Cost [47 , 21 ] 901505840
+Cost [47 , 22 ] 926048625
+Cost [47 , 23 ] 912408321
+Cost [47 , 24 ] 1052872789
+Cost [47 , 25 ] 1217108876
+Coord Client [1]   50  , 134
+Coord Client [2]   50  , 139
+Coord Client [3]   50  , 139
+Coord Client [4]   85  , 148
+Coord Client [5]   68  , 136
+Coord Client [6]   77  , 128
+Coord Client [7]   70  , 146
+Coord Client [8]   69.5, 142
+Coord Client [9]   80  , 151
+Coord Client [10] 100  , 154
+Coord Client [11]  89  , 171
+Coord Client [12]  86  , 182
+Coord Client [13]  85  , 208
+Coord Client [14]  82  , 188
+Coord Client [15]  84  , 160
+Coord Client [16]  96  , 180
+Coord Client [17]  92  , 184
+Coord Client [18]  59  , 144
+Coord Client [19]  60  , 143
+Coord Client [20]  54  , 131
+Coord Client [21]  56  , 126
+Coord Client [22]  62  , 150
+Coord Client [23]  52  , 150
+Coord Client [24]  51  , 141
+Coord Client [25]  55  , 163
+Coord Client [26]  51  , 156
+Coord Client [27]  60  , 153
+Coord Client [28]  49  , 164
+Coord Client [29]  48  , 156
+Coord Client [30]  48  , 152
+Coord Client [31]  50  , 100
+Coord Client [32]  55  , 117
+Coord Client [33]  47  , 106
+Coord Client [34]  44  , 103
+Coord Client [35]  23  , 104
+Coord Client [36]  25  ,  96
+Coord Client [37]  50  , 142
+Coord Client [38]  48  , 144
+Coord Client [39]  32  , 103
+Coord Client [40]  34  , 109
+Coord Client [41]  35  , 116
+Coord Client [42]  74  , 217
+Coord Client [43]  63  , 125
+Coord Client [44]  45  , 128
+Coord Client [45]  45  , 140
+Coord Client [46]  42  , 132
+Coord Client [47]  48  , 136
+Coord Depot  [1]   51  , 138	
+Coord Depot  [2]   73  , 141
+Coord Depot  [3]   89  , 171
+Coord Depot  [4]   87  , 210
+Coord Depot  [5]   42  , 132
+Coord Depot  [6]   44  , 134
+Coord Depot  [7]   37  , 124
+Coord Depot  [8]   94  , 189
+Coord Depot  [9]   90  , 180
+Coord Depot  [10]  56  , 126
+Coord Depot  [11]  66  , 146
+Coord Depot  [12]  57  , 136
+Coord Depot  [13]  66  , 132
+Coord Depot  [14]  52  , 142
+Coord Depot  [15]  57  , 145
+Coord Depot  [16]  51  , 141
+Coord Depot  [17]  52  , 160
+Coord Depot  [18]  55  , 117
+Coord Depot  [19]  47  , 106
+Coord Depot  [20]  25  ,  96
+Coord Depot  [21]  48  , 144
+Coord Depot  [22]  49.5, 141
+Coord Depot  [23]  51.5, 140
+Coord Depot  [24]  37  , 112
+Coord Depot  [25]  74  , 217
+Coord Frontier  [	1	]	114	,	236
+Coord Frontier  [	2	]	110	,	236
+Coord Frontier  [	3	]	108	,	235
+Coord Frontier  [	4	]	107	,	232
+Coord Frontier  [	5	]	104	,	234
+Coord Frontier  [	6	]	102	,	230
+Coord Frontier  [	7	]	90	,	223
+Coord Frontier  [	8	]	86	,	220
+Coord Frontier  [	9	]	74	,	220
+Coord Frontier  [	10	]	74	,	219
+Coord Frontier  [	11	]	71	,	217
+Coord Frontier  [	12	]	65	,	218
+Coord Frontier  [	13	]	60	,	216
+Coord Frontier  [	14	]	55	,	214
+Coord Frontier  [	15	]	55	,	210
+Coord Frontier  [	16	]	53	,	208
+Coord Frontier  [	17	]	55	,	205
+Coord Frontier  [	18	]	52	,	203
+Coord Frontier  [	19	]	54	,	199
+Coord Frontier  [	20	]	50	,	198
+Coord Frontier  [	21	]	41	,	192
+Coord Frontier  [	22	]	35	,	188
+Coord Frontier  [	23	]	37	,	185
+Coord Frontier  [	24	]	37	,	180
+Coord Frontier  [	25	]	36	,	179
+Coord Frontier  [	26	]	35	,	180
+Coord Frontier  [	27	]	34	,	184
+Coord Frontier  [	28	]	32	,	184
+Coord Frontier  [	29	]	30	,	188
+Coord Frontier  [	30	]	28	,	189
+Coord Frontier  [	31	]	26	,	187
+Coord Frontier  [	32	]	28	,	184
+Coord Frontier  [	33	]	29	,	180
+Coord Frontier  [	34	]	26	,	176
+Coord Frontier  [	35	]	22	,	176
+Coord Frontier  [	36	]	19	,	172
+Coord Frontier  [	37	]	24	,	167
+Coord Frontier  [	38	]	24	,	164
+Coord Frontier  [	39	]	28	,	162
+Coord Frontier  [	40	]	28	,	159
+Coord Frontier  [	41	]	25	,	159
+Coord Frontier  [	42	]	25	,	157
+Coord Frontier  [	43	]	28	,	153
+Coord Frontier  [	44	]	24	,	149
+Coord Frontier  [	45	]	27	,	147
+Coord Frontier  [	46	]	26	,	142
+Coord Frontier  [	47	]	29	,	139
+Coord Frontier  [	48	]	27	,	138
+Coord Frontier  [	49	]	26	,	134
+Coord Frontier  [	50	]	25	,	133
+Coord Frontier  [	51	]	25	,	130
+Coord Frontier  [	52	]	28	,	130
+Coord Frontier  [	53	]	28	,	128
+Coord Frontier  [	54	]	30	,	128
+Coord Frontier  [	55	]	30	,	126
+Coord Frontier  [	56	]	21	,	118
+Coord Frontier  [	57	]	20	,	114
+Coord Frontier  [	58	]	17	,	114
+Coord Frontier  [	59	]	16	,	112
+Coord Frontier  [	60	]	15	,	113
+Coord Frontier  [	61	]	10	,	112
+Coord Frontier  [	62	]	7	,	109
+Coord Frontier  [	63	]	7	,	103
+Coord Frontier  [	64	]	5	,	103
+Coord Frontier  [	65	]	2	,	100
+Coord Frontier  [	66	]	7	,	95
+Coord Frontier  [	67	]	11	,	95
+Coord Frontier  [	68	]	15	,	90
+Coord Frontier  [	69	]	21	,	91
+Coord Frontier  [	70	]	24	,	88
+Coord Frontier  [	71	]	24	,	85
+Coord Frontier  [	72	]	29	,	85
+Coord Frontier  [	73	]	33	,	82
+Coord Frontier  [	74	]	38	,	84
+Coord Frontier  [	75	]	41	,	82
+Coord Frontier  [	76	]	45	,	84
+Coord Frontier  [	77	]	50	,	80
+Coord Frontier  [	78	]	53	,	80
+Coord Frontier  [	79	]	56	,	77
+Coord Frontier  [	80	]	60	,	78
+Coord Frontier  [	81	]	61	,	76
+Coord Frontier  [	82	]	64	,	76
+Coord Frontier  [	83	]	68	,	74
+Coord Frontier  [	84	]	72	,	72
+Coord Frontier  [	85	]	72	,	66
+Coord Frontier  [	86	]	83	,	60
+Coord Frontier  [	87	]	83	,	57
+Coord Frontier  [	88	]	87	,	56
+Coord Frontier  [	89	]	89	,	53
+Coord Frontier  [	90	]	87	,	51
+Coord Frontier  [	91	]	90	,	48
+Coord Frontier  [	92	]	100	,	48
+Coord Frontier  [	93	]	102	,	50
+Coord Frontier  [	94	]	105	,	50
+Coord Frontier  [	95	]	109	,	52
+Coord Frontier  [	96	]	115	,	49
+Coord Frontier  [	97	]	120	,	51
+Coord Frontier  [	98	]	127	,	49
+Coord Frontier  [	99	]	133	,	45
+Coord Frontier  [	100	]	124	,	32
+Coord Frontier  [	101	]	130	,	32
+Coord Frontier  [	102	]	135	,	26
+Coord Frontier  [	103	]	144	,	66
+Coord Frontier  [	104	]	140	,	70
+Coord Frontier  [	105	]	140	,	73
+Coord Frontier  [	106	]	134	,	77
+Coord Frontier  [	107	]	134	,	86
+Coord Frontier  [	108	]	140	,	88
+Coord Frontier  [	109	]	148	,	87
+Coord Frontier  [	110	]	145	,	93
+Coord Frontier  [	111	]	139	,	93
+Coord Frontier  [	112	]	137	,	94
+Coord Frontier  [	113	]	137	,	100
+Coord Frontier  [	114	]	139	,	101
+Coord Frontier  [	115	]	160	,	100
+Coord Frontier  [	116	]	159	,	102
+Coord Frontier  [	117	]	160	,	103
+Coord Frontier  [	118	]	165	,	102
+Coord Frontier  [	119	]	171	,	104
+Coord Frontier  [	120	]	174	,	100
+Coord Frontier  [	121	]	175	,	94
+Coord Frontier  [	122	]	178	,	94
+Coord Frontier  [	123	]	177	,	103
+Coord Frontier  [	124	]	174	,	105
+Coord Frontier  [	125	]	173	,	109
+Coord Frontier  [	126	]	166	,	115
+Coord Frontier  [	127	]	173	,	121
+Coord Frontier  [	128	]	170	,	124
+Coord Frontier  [	129	]	171	,	127
+Coord Frontier  [	130	]	168	,	128
+Coord Frontier  [	131	]	165	,	139
+Coord Frontier  [	132	]	166	,	146
+Coord Frontier  [	133	]	169	,	148
+Coord Frontier  [	134	]	168	,	152
+Coord Frontier  [	135	]	172	,	154
+Coord Frontier  [	136	]	171	,	159
+Coord Frontier  [	137	]	143	,	157
+Coord Frontier  [	138	]	133	,	166
+Coord Frontier  [	139	]	123	,	167
+Coord Frontier  [	140	]	119	,	166
+Coord Frontier  [	141	]	106	,	168
+Coord Frontier  [	142	]	102	,	172
+Coord Frontier  [	143	]	100	,	172
+Coord Frontier  [	144	]	98	,	175
+Coord Frontier  [	145	]	100	,	178
+Coord Frontier  [	146	]	99	,	179
+Coord Frontier  [	147	]	101	,	181
+Coord Frontier  [	148	]	100	,	187
+Coord Frontier  [	149	]	95	,	189
+Coord Frontier  [	150	]	94	,	195
+Coord Frontier  [	151	]	92	,	196
+Coord Frontier  [	152	]	87	,	196
+Coord Frontier  [	153	]	93	,	203
+Coord Frontier  [	154	]	91	,	205
+Coord Frontier  [	155	]	96	,	212
+Coord Frontier  [	156	]	98	,	218
+Coord Frontier  [	157	]	103	,	221
+Coord Frontier  [	158	]	106	,	225
+Coord Frontier  [	159	]	108	,	226
+Coord Frontier  [	160	]	119	,	231
+Coord Frontier  [	161	]	118	,	235
+Coord Frontier  [	162	]	114	,	235
+Coord Frontier  [	163	]	114	,	236
+Max Distance Cover 150

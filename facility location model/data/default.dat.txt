@@ -1,0 +1,24 @@
+Clients  2
+NDepots  2
+R factor 1
+Demand [1] 39
+Demand [2] 19
+Capacity [1] 18
+Capacity [2] 39
+FixedCost [1] 515
+FixedCost [2] 744
+Distance [1,1] 45
+Distance [1,2] 56
+Distance [2,1] 67
+Distance [2,2] 38
+Cost [1,1] 80
+Cost [1,2] 111
+Cost [2,1] 62
+Cost [2,2] 38
+Coord Client [1] 63 , 55
+Coord Client [2] 59 , 33
+Coord Depot  [1] 87 , 94
+Coord Depot  [2] 27 , 12
+Max Distance Cover 10
+LLGrid  0
+ULGrid  100

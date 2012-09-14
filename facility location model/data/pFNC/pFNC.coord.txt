@@ -1,0 +1,1413 @@
+Clients 47
+Depots 25
+BoundaryPoints  163
+Coord Client [1]   50  , 134
+Coord Client [2]   50  , 139
+Coord Client [3]   50  , 139
+Coord Client [4]   85  , 148
+Coord Client [5]   68  , 136
+Coord Client [6]   77  , 128
+Coord Client [7]   70  , 146
+Coord Client [8]   69.5, 142
+Coord Client [9]   80  , 151
+Coord Client [10] 100  , 154
+Coord Client [11]  89  , 171
+Coord Client [12]  86  , 182
+Coord Client [13]  85  , 208
+Coord Client [14]  82  , 188
+Coord Client [15]  84  , 160
+Coord Client [16]  96  , 180
+Coord Client [17]  92  , 184
+Coord Client [18]  59  , 144
+Coord Client [19]  60  , 143
+Coord Client [20]  54  , 131
+Coord Client [21]  56  , 126
+Coord Client [22]  62  , 150
+Coord Client [23]  52  , 150
+Coord Client [24]  51  , 141
+Coord Client [25]  55  , 163
+Coord Client [26]  51  , 156
+Coord Client [27]  60  , 153
+Coord Client [28]  49  , 164
+Coord Client [29]  48  , 156
+Coord Client [30]  48  , 152
+Coord Client [31]  50  , 100
+Coord Client [32]  55  , 117
+Coord Client [33]  47  , 106
+Coord Client [34]  44  , 103
+Coord Client [35]  23  , 104
+Coord Client [36]  25  ,  96
+Coord Client [37]  50  , 142
+Coord Client [38]  48  , 144
+Coord Client [39]  32  , 103
+Coord Client [40]  34  , 109
+Coord Client [41]  35  , 116
+Coord Client [42]  74  , 217
+Coord Client [43]  63  , 125
+Coord Client [44]  45  , 128
+Coord Client [45]  45  , 140
+Coord Client [46]  42  , 132
+Coord Client [47]  48  , 136
+Coord Depot  [1]   51  , 138	
+Coord Depot  [2]   73  , 141
+Coord Depot  [3]   89  , 171
+Coord Depot  [4]   87  , 210
+Coord Depot  [5]   42  , 132
+Coord Depot  [6]   44  , 134
+Coord Depot  [7]   37  , 124
+Coord Depot  [8]   94  , 189
+Coord Depot  [9]   90  , 180
+Coord Depot  [10]  56  , 126
+Coord Depot  [11]  66  , 146
+Coord Depot  [12]  57  , 136
+Coord Depot  [13]  66  , 132
+Coord Depot  [14]  52  , 142
+Coord Depot  [15]  57  , 145
+Coord Depot  [16]  51  , 141
+Coord Depot  [17]  52  , 160
+Coord Depot  [18]  55  , 117
+Coord Depot  [19]  47  , 106
+Coord Depot  [20]  25  ,  96
+Coord Depot  [21]  48  , 144
+Coord Depot  [22]  49.5, 141
+Coord Depot  [23]  51.5, 140
+Coord Depot  [24]  37  , 112
+Coord Depot  [25]  74  , 217
+Coord Frontier  [	1	]	114	,	236
+Coord Frontier  [	2	]	110	,	236
+Coord Frontier  [	3	]	108	,	235
+Coord Frontier  [	4	]	107	,	232
+Coord Frontier  [	5	]	104	,	234
+Coord Frontier  [	6	]	102	,	230
+Coord Frontier  [	7	]	90	,	223
+Coord Frontier  [	8	]	86	,	220
+Coord Frontier  [	9	]	74	,	220
+Coord Frontier  [	10	]	74	,	219
+Coord Frontier  [	11	]	71	,	217
+Coord Frontier  [	12	]	65	,	218
+Coord Frontier  [	13	]	60	,	216
+Coord Frontier  [	14	]	55	,	214
+Coord Frontier  [	15	]	55	,	210
+Coord Frontier  [	16	]	53	,	208
+Coord Frontier  [	17	]	55	,	205
+Coord Frontier  [	18	]	52	,	203
+Coord Frontier  [	19	]	54	,	199
+Coord Frontier  [	20	]	50	,	198
+Coord Frontier  [	21	]	41	,	192
+Coord Frontier  [	22	]	35	,	188
+Coord Frontier  [	23	]	37	,	185
+Coord Frontier  [	24	]	37	,	180
+Coord Frontier  [	25	]	36	,	179
+Coord Frontier  [	26	]	35	,	180
+Coord Frontier  [	27	]	34	,	184
+Coord Frontier  [	28	]	32	,	184
+Coord Frontier  [	29	]	30	,	188
+Coord Frontier  [	30	]	28	,	189
+Coord Frontier  [	31	]	26	,	187
+Coord Frontier  [	32	]	28	,	184
+Coord Frontier  [	33	]	29	,	180
+Coord Frontier  [	34	]	26	,	176
+Coord Frontier  [	35	]	22	,	176
+Coord Frontier  [	36	]	19	,	172
+Coord Frontier  [	37	]	24	,	167
+Coord Frontier  [	38	]	24	,	164
+Coord Frontier  [	39	]	28	,	162
+Coord Frontier  [	40	]	28	,	159
+Coord Frontier  [	41	]	25	,	159
+Coord Frontier  [	42	]	25	,	157
+Coord Frontier  [	43	]	28	,	153
+Coord Frontier  [	44	]	24	,	149
+Coord Frontier  [	45	]	27	,	147
+Coord Frontier  [	46	]	26	,	142
+Coord Frontier  [	47	]	29	,	139
+Coord Frontier  [	48	]	27	,	138
+Coord Frontier  [	49	]	26	,	134
+Coord Frontier  [	50	]	25	,	133
+Coord Frontier  [	51	]	25	,	130
+Coord Frontier  [	52	]	28	,	130
+Coord Frontier  [	53	]	28	,	128
+Coord Frontier  [	54	]	30	,	128
+Coord Frontier  [	55	]	30	,	126
+Coord Frontier  [	56	]	21	,	118
+Coord Frontier  [	57	]	20	,	114
+Coord Frontier  [	58	]	17	,	114
+Coord Frontier  [	59	]	16	,	112
+Coord Frontier  [	60	]	15	,	113
+Coord Frontier  [	61	]	10	,	112
+Coord Frontier  [	62	]	7	,	109
+Coord Frontier  [	63	]	7	,	103
+Coord Frontier  [	64	]	5	,	103
+Coord Frontier  [	65	]	2	,	100
+Coord Frontier  [	66	]	7	,	95
+Coord Frontier  [	67	]	11	,	95
+Coord Frontier  [	68	]	15	,	90
+Coord Frontier  [	69	]	21	,	91
+Coord Frontier  [	70	]	24	,	88
+Coord Frontier  [	71	]	24	,	85
+Coord Frontier  [	72	]	29	,	85
+Coord Frontier  [	73	]	33	,	82
+Coord Frontier  [	74	]	38	,	84
+Coord Frontier  [	75	]	41	,	82
+Coord Frontier  [	76	]	45	,	84
+Coord Frontier  [	77	]	50	,	80
+Coord Frontier  [	78	]	53	,	80
+Coord Frontier  [	79	]	56	,	77
+Coord Frontier  [	80	]	60	,	78
+Coord Frontier  [	81	]	61	,	76
+Coord Frontier  [	82	]	64	,	76
+Coord Frontier  [	83	]	68	,	74
+Coord Frontier  [	84	]	72	,	72
+Coord Frontier  [	85	]	72	,	66
+Coord Frontier  [	86	]	83	,	60
+Coord Frontier  [	87	]	83	,	57
+Coord Frontier  [	88	]	87	,	56
+Coord Frontier  [	89	]	89	,	53
+Coord Frontier  [	90	]	87	,	51
+Coord Frontier  [	91	]	90	,	48
+Coord Frontier  [	92	]	100	,	48
+Coord Frontier  [	93	]	102	,	50
+Coord Frontier  [	94	]	105	,	50
+Coord Frontier  [	95	]	109	,	52
+Coord Frontier  [	96	]	115	,	49
+Coord Frontier  [	97	]	120	,	51
+Coord Frontier  [	98	]	127	,	49
+Coord Frontier  [	99	]	133	,	45
+Coord Frontier  [	100	]	124	,	32
+Coord Frontier  [	101	]	130	,	32
+Coord Frontier  [	102	]	135	,	26
+Coord Frontier  [	103	]	144	,	66
+Coord Frontier  [	104	]	140	,	70
+Coord Frontier  [	105	]	140	,	73
+Coord Frontier  [	106	]	134	,	77
+Coord Frontier  [	107	]	134	,	86
+Coord Frontier  [	108	]	140	,	88
+Coord Frontier  [	109	]	148	,	87
+Coord Frontier  [	110	]	145	,	93
+Coord Frontier  [	111	]	139	,	93
+Coord Frontier  [	112	]	137	,	94
+Coord Frontier  [	113	]	137	,	100
+Coord Frontier  [	114	]	139	,	101
+Coord Frontier  [	115	]	160	,	100
+Coord Frontier  [	116	]	159	,	102
+Coord Frontier  [	117	]	160	,	103
+Coord Frontier  [	118	]	165	,	102
+Coord Frontier  [	119	]	171	,	104
+Coord Frontier  [	120	]	174	,	100
+Coord Frontier  [	121	]	175	,	94
+Coord Frontier  [	122	]	178	,	94
+Coord Frontier  [	123	]	177	,	103
+Coord Frontier  [	124	]	174	,	105
+Coord Frontier  [	125	]	173	,	109
+Coord Frontier  [	126	]	166	,	115
+Coord Frontier  [	127	]	173	,	121
+Coord Frontier  [	128	]	170	,	124
+Coord Frontier  [	129	]	171	,	127
+Coord Frontier  [	130	]	168	,	128
+Coord Frontier  [	131	]	165	,	139
+Coord Frontier  [	132	]	166	,	146
+Coord Frontier  [	133	]	169	,	148
+Coord Frontier  [	134	]	168	,	152
+Coord Frontier  [	135	]	172	,	154
+Coord Frontier  [	136	]	171	,	159
+Coord Frontier  [	137	]	143	,	157
+Coord Frontier  [	138	]	133	,	166
+Coord Frontier  [	139	]	123	,	167
+Coord Frontier  [	140	]	119	,	166
+Coord Frontier  [	141	]	106	,	168
+Coord Frontier  [	142	]	102	,	172
+Coord Frontier  [	143	]	100	,	172
+Coord Frontier  [	144	]	98	,	175
+Coord Frontier  [	145	]	100	,	178
+Coord Frontier  [	146	]	99	,	179
+Coord Frontier  [	147	]	101	,	181
+Coord Frontier  [	148	]	100	,	187
+Coord Frontier  [	149	]	95	,	189
+Coord Frontier  [	150	]	94	,	195
+Coord Frontier  [	151	]	92	,	196
+Coord Frontier  [	152	]	87	,	196
+Coord Frontier  [	153	]	93	,	203
+Coord Frontier  [	154	]	91	,	205
+Coord Frontier  [	155	]	96	,	212
+Coord Frontier  [	156	]	98	,	218
+Coord Frontier  [	157	]	103	,	221
+Coord Frontier  [	158	]	106	,	225
+Coord Frontier  [	159	]	108	,	226
+Coord Frontier  [	160	]	119	,	231
+Coord Frontier  [	161	]	118	,	235
+Coord Frontier  [	162	]	114	,	235
+Coord Frontier  [	163	]	114	,	236
+Distance [1,1] 4.12       
+Distance [1,2] 24.04      
+Distance [1,3] 53.76      
+Distance [1,4] 84.53      
+Distance [1,5] 8.25       
+Distance [1,6] 6          
+Distance [1,7] 16.4       
+Distance [1,8] 70.43      
+Distance [1,9] 60.96      
+Distance [1,10] 10         
+Distance [1,11] 20         
+Distance [1,12] 7.28       
+Distance [1,13] 16.12      
+Distance [1,14] 8.25       
+Distance [1,15] 13.04      
+Distance [1,16] 7.07       
+Distance [1,17] 26.08      
+Distance [1,18] 17.72      
+Distance [1,19] 28.16      
+Distance [1,20] 45.49      
+Distance [1,21] 10.2       
+Distance [1,22] 7.02       
+Distance [1,23] 6.18       
+Distance [1,24] 25.55      
+Distance [1,25] 86.4       
+Distance [2,1] 1.41       
+Distance [2,2] 23.09      
+Distance [2,3] 50.45      
+Distance [2,4] 80.06      
+Distance [2,5] 10.63      
+Distance [2,6] 7.81       
+Distance [2,7] 19.85      
+Distance [2,8] 66.6       
+Distance [2,9] 57.28      
+Distance [2,10] 14.32      
+Distance [2,11] 17.46      
+Distance [2,12] 7.62       
+Distance [2,13] 17.46      
+Distance [2,14] 3.61       
+Distance [2,15] 9.22       
+Distance [2,16] 2.24       
+Distance [2,17] 21.1       
+Distance [2,18] 22.56      
+Distance [2,19] 33.14      
+Distance [2,20] 49.74      
+Distance [2,21] 5.39       
+Distance [2,22] 2.06       
+Distance [2,23] 1.8        
+Distance [2,24] 29.97      
+Distance [2,25] 81.61      
+Distance [3,1] 1.41       
+Distance [3,2] 23.09      
+Distance [3,3] 50.45      
+Distance [3,4] 80.06      
+Distance [3,5] 10.63      
+Distance [3,6] 7.81       
+Distance [3,7] 19.85      
+Distance [3,8] 66.6       
+Distance [3,9] 57.28      
+Distance [3,10] 14.32      
+Distance [3,11] 17.46      
+Distance [3,12] 7.62       
+Distance [3,13] 17.46      
+Distance [3,14] 3.61       
+Distance [3,15] 9.22       
+Distance [3,16] 2.24       
+Distance [3,17] 21.1       
+Distance [3,18] 22.56      
+Distance [3,19] 33.14      
+Distance [3,20] 49.74      
+Distance [3,21] 5.39       
+Distance [3,22] 2.06       
+Distance [3,23] 1.8        
+Distance [3,24] 29.97      
+Distance [3,25] 81.61      
+Distance [4,1] 35.44      
+Distance [4,2] 13.89      
+Distance [4,3] 23.35      
+Distance [4,4] 62.03      
+Distance [4,5] 45.88      
+Distance [4,6] 43.32      
+Distance [4,7] 53.67      
+Distance [4,8] 41.98      
+Distance [4,9] 32.39      
+Distance [4,10] 36.4       
+Distance [4,11] 19.1       
+Distance [4,12] 30.46      
+Distance [4,13] 24.84      
+Distance [4,14] 33.54      
+Distance [4,15] 28.16      
+Distance [4,16] 34.71      
+Distance [4,17] 35.11      
+Distance [4,18] 43.14      
+Distance [4,19] 56.64      
+Distance [4,20] 79.4       
+Distance [4,21] 37.22      
+Distance [4,22] 36.18      
+Distance [4,23] 34.44      
+Distance [4,24] 60         
+Distance [4,25] 69.87      
+Distance [5,1] 17.12      
+Distance [5,2] 7.07       
+Distance [5,3] 40.82      
+Distance [5,4] 76.4       
+Distance [5,5] 26.31      
+Distance [5,6] 24.08      
+Distance [5,7] 33.24      
+Distance [5,8] 59.03      
+Distance [5,9] 49.19      
+Distance [5,10] 15.62      
+Distance [5,11] 10.2       
+Distance [5,12] 11         
+Distance [5,13] 4.47       
+Distance [5,14] 17.09      
+Distance [5,15] 14.21      
+Distance [5,16] 17.72      
+Distance [5,17] 28.84      
+Distance [5,18] 23.02      
+Distance [5,19] 36.62      
+Distance [5,20] 58.73      
+Distance [5,21] 21.54      
+Distance [5,22] 19.16      
+Distance [5,23] 16.98      
+Distance [5,24] 39.2       
+Distance [5,25] 81.22      
+Distance [6,1] 27.86      
+Distance [6,2] 13.6       
+Distance [6,3] 44.64      
+Distance [6,4] 82.61      
+Distance [6,5] 35.23      
+Distance [6,6] 33.54      
+Distance [6,7] 40.2       
+Distance [6,8] 63.32      
+Distance [6,9] 53.6       
+Distance [6,10] 21.1       
+Distance [6,11] 21.1       
+Distance [6,12] 21.54      
+Distance [6,13] 11.7       
+Distance [6,14] 28.65      
+Distance [6,15] 26.25      
+Distance [6,16] 29.07      
+Distance [6,17] 40.61      
+Distance [6,18] 24.6       
+Distance [6,19] 37.2       
+Distance [6,20] 61.06      
+Distance [6,21] 33.12      
+Distance [6,22] 30.42      
+Distance [6,23] 28.18      
+Distance [6,24] 43.08      
+Distance [6,25] 89.05      
+Distance [7,1] 20.62      
+Distance [7,2] 5.83       
+Distance [7,3] 31.4       
+Distance [7,4] 66.22      
+Distance [7,5] 31.3       
+Distance [7,6] 28.64      
+Distance [7,7] 39.66      
+Distance [7,8] 49.24      
+Distance [7,9] 39.45      
+Distance [7,10] 24.41      
+Distance [7,11] 4          
+Distance [7,12] 16.4       
+Distance [7,13] 14.56      
+Distance [7,14] 18.44      
+Distance [7,15] 13.04      
+Distance [7,16] 19.65      
+Distance [7,17] 22.8       
+Distance [7,18] 32.65      
+Distance [7,19] 46.14      
+Distance [7,20] 67.27      
+Distance [7,21] 22.09      
+Distance [7,22] 21.1       
+Distance [7,23] 19.45      
+Distance [7,24] 47.38      
+Distance [7,25] 71.11      
+Distance [8,1] 18.93      
+Distance [8,2] 3.64       
+Distance [8,3] 34.95      
+Distance [8,4] 70.22      
+Distance [8,5] 29.26      
+Distance [8,6] 26.73      
+Distance [8,7] 37.15      
+Distance [8,8] 53         
+Distance [8,9] 43.18      
+Distance [8,10] 20.93      
+Distance [8,11] 5.32       
+Distance [8,12] 13.87      
+Distance [8,13] 10.59      
+Distance [8,14] 17.5       
+Distance [8,15] 12.85      
+Distance [8,16] 18.53      
+Distance [8,17] 25.1       
+Distance [8,18] 28.9       
+Distance [8,19] 42.45      
+Distance [8,20] 64         
+Distance [8,21] 21.59      
+Distance [8,22] 20.02      
+Distance [8,23] 18.11      
+Distance [8,24] 44.23      
+Distance [8,25] 75.13      
+Distance [9,1] 31.78      
+Distance [9,2] 12.21      
+Distance [9,3] 21.93      
+Distance [9,4] 59.41      
+Distance [9,5] 42.49      
+Distance [9,6] 39.81      
+Distance [9,7] 50.77      
+Distance [9,8] 40.5       
+Distance [9,9] 30.68      
+Distance [9,10] 34.66      
+Distance [9,11] 14.87      
+Distance [9,12] 27.46      
+Distance [9,13] 23.6       
+Distance [9,14] 29.41      
+Distance [9,15] 23.77      
+Distance [9,16] 30.68      
+Distance [9,17] 29.41      
+Distance [9,18] 42.2       
+Distance [9,19] 55.8       
+Distance [9,20] 77.78      
+Distance [9,21] 32.76      
+Distance [9,22] 32.1       
+Distance [9,23] 30.55      
+Distance [9,24] 58.05      
+Distance [9,25] 66.27      
+Distance [10,1] 51.55      
+Distance [10,2] 29.97      
+Distance [10,3] 20.25      
+Distance [10,4] 57.49      
+Distance [10,5] 62.03      
+Distance [10,6] 59.46      
+Distance [10,7] 69.78      
+Distance [10,8] 35.51      
+Distance [10,9] 27.86      
+Distance [10,10] 52.15      
+Distance [10,11] 34.93      
+Distance [10,12] 46.62      
+Distance [10,13] 40.5       
+Distance [10,14] 49.48      
+Distance [10,15] 43.93      
+Distance [10,16] 50.7       
+Distance [10,17] 48.37      
+Distance [10,18] 58.26      
+Distance [10,19] 71.51      
+Distance [10,20] 94.81      
+Distance [10,21] 52.95      
+Distance [10,22] 52.15      
+Distance [10,23] 50.48      
+Distance [10,24] 75.72      
+Distance [10,25] 68.15      
+Distance [11,1] 50.33      
+Distance [11,2] 34         
+Distance [11,3] 0          
+Distance [11,4] 39.05      
+Distance [11,5] 61.07      
+Distance [11,6] 58.26      
+Distance [11,7] 70.09      
+Distance [11,8] 18.68      
+Distance [11,9] 9.06       
+Distance [11,10] 55.8       
+Distance [11,11] 33.97      
+Distance [11,12] 47.42      
+Distance [11,13] 45.28      
+Distance [11,14] 47.01      
+Distance [11,15] 41.23      
+Distance [11,16] 48.41      
+Distance [11,17] 38.6       
+Distance [11,18] 63.81      
+Distance [11,19] 77.39      
+Distance [11,20] 98.6       
+Distance [11,21] 49.09      
+Distance [11,22] 49.6       
+Distance [11,23] 48.65      
+Distance [11,24] 78.64      
+Distance [11,25] 48.38      
+Distance [12,1] 56.22      
+Distance [12,2] 43.01      
+Distance [12,3] 11.4       
+Distance [12,4] 28.02      
+Distance [12,5] 66.6       
+Distance [12,6] 63.78      
+Distance [12,7] 75.93      
+Distance [12,8] 10.63      
+Distance [12,9] 4.47       
+Distance [12,10] 63.53      
+Distance [12,11] 41.18      
+Distance [12,12] 54.38      
+Distance [12,13] 53.85      
+Distance [12,14] 52.5       
+Distance [12,15] 47.01      
+Distance [12,16] 53.91      
+Distance [12,17] 40.5       
+Distance [12,18] 72.01      
+Distance [12,19] 85.42      
+Distance [12,20] 105.44     
+Distance [12,21] 53.74      
+Distance [12,22] 54.89      
+Distance [12,23] 54.35      
+Distance [12,24] 85.45      
+Distance [12,25] 37         
+Distance [13,1] 77.82      
+Distance [13,2] 68.07      
+Distance [13,3] 37.22      
+Distance [13,4] 2.83       
+Distance [13,5] 87.32      
+Distance [13,6] 84.6       
+Distance [13,7] 96.75      
+Distance [13,8] 21.02      
+Distance [13,9] 28.44      
+Distance [13,10] 86.98      
+Distance [13,11] 64.85      
+Distance [13,12] 77.25      
+Distance [13,13] 78.34      
+Distance [13,14] 73.79      
+Distance [13,15] 68.94      
+Distance [13,16] 75.13      
+Distance [13,17] 58.25      
+Distance [13,18] 95.82      
+Distance [13,19] 108.85     
+Distance [13,20] 127.06     
+Distance [13,21] 73.93      
+Distance [13,22] 75.82      
+Distance [13,23] 75.8       
+Distance [13,24] 107.33     
+Distance [13,25] 14.21      
+Distance [14,1] 58.83      
+Distance [14,2] 47.85      
+Distance [14,3] 18.38      
+Distance [14,4] 22.56      
+Distance [14,5] 68.82      
+Distance [14,6] 66.03      
+Distance [14,7] 78.24      
+Distance [14,8] 12.04      
+Distance [14,9] 11.31      
+Distance [14,10] 67.23      
+Distance [14,11] 44.94      
+Distance [14,12] 57.7       
+Distance [14,13] 58.24      
+Distance [14,14] 54.92      
+Distance [14,15] 49.74      
+Distance [14,16] 56.3       
+Distance [14,17] 41.04      
+Distance [14,18] 75.96      
+Distance [14,19] 89.16      
+Distance [14,20] 108.23     
+Distance [14,21] 55.61      
+Distance [14,22] 57.14      
+Distance [14,23] 56.87      
+Distance [14,24] 88.32      
+Distance [14,25] 30.08      
+Distance [15,1] 39.66      
+Distance [15,2] 21.95      
+Distance [15,3] 12.08      
+Distance [15,4] 50.09      
+Distance [15,5] 50.48      
+Distance [15,6] 47.71      
+Distance [15,7] 59.2       
+Distance [15,8] 30.68      
+Distance [15,9] 20.88      
+Distance [15,10] 44.05      
+Distance [15,11] 22.8       
+Distance [15,12] 36.12      
+Distance [15,13] 33.29      
+Distance [15,14] 36.72      
+Distance [15,15] 30.89      
+Distance [15,16] 38.08      
+Distance [15,17] 32         
+Distance [15,18] 51.87      
+Distance [15,19] 65.46      
+Distance [15,20] 87.05      
+Distance [15,21] 39.4       
+Distance [15,22] 39.39      
+Distance [15,23] 38.16      
+Distance [15,24] 67.18      
+Distance [15,25] 57.87      
+Distance [16,1] 61.55      
+Distance [16,2] 45.28      
+Distance [16,3] 11.4       
+Distance [16,4] 31.32      
+Distance [16,5] 72.25      
+Distance [16,6] 69.43      
+Distance [16,7] 81.34      
+Distance [16,8] 9.22       
+Distance [16,9] 6          
+Distance [16,10] 67.2       
+Distance [16,11] 45.34      
+Distance [16,12] 58.8       
+Distance [16,13] 56.6       
+Distance [16,14] 58.14      
+Distance [16,15] 52.4       
+Distance [16,16] 59.55      
+Distance [16,17] 48.33      
+Distance [16,18] 75.17      
+Distance [16,19] 88.75      
+Distance [16,20] 109.99     
+Distance [16,21] 60         
+Distance [16,22] 60.69      
+Distance [16,23] 59.84      
+Distance [16,24] 90.03      
+Distance [16,25] 43.05      
+Distance [17,1] 61.62      
+Distance [17,2] 47.01      
+Distance [17,3] 13.34      
+Distance [17,4] 26.48      
+Distance [17,5] 72.14      
+Distance [17,6] 69.31      
+Distance [17,7] 81.39      
+Distance [17,8] 5.39       
+Distance [17,9] 4.47       
+Distance [17,10] 68.26      
+Distance [17,11] 46.04      
+Distance [17,12] 59.41      
+Distance [17,13] 58.14      
+Distance [17,14] 58         
+Distance [17,15] 52.4       
+Distance [17,16] 59.41      
+Distance [17,17] 46.65      
+Distance [17,18] 76.54      
+Distance [17,19] 90.05      
+Distance [17,20] 110.6      
+Distance [17,21] 59.46      
+Distance [17,22] 60.46      
+Distance [17,23] 59.8       
+Distance [17,24] 90.6       
+Distance [17,25] 37.59      
+Distance [18,1] 10         
+Distance [18,2] 14.32      
+Distance [18,3] 40.36      
+Distance [18,4] 71.69      
+Distance [18,5] 20.81      
+Distance [18,6] 18.03      
+Distance [18,7] 29.73      
+Distance [18,8] 57.01      
+Distance [18,9] 47.51      
+Distance [18,10] 18.25      
+Distance [18,11] 7.28       
+Distance [18,12] 8.25       
+Distance [18,13] 13.89      
+Distance [18,14] 7.28       
+Distance [18,15] 2.24       
+Distance [18,16] 8.54       
+Distance [18,17] 17.46      
+Distance [18,18] 27.29      
+Distance [18,19] 39.85      
+Distance [18,20] 58.82      
+Distance [18,21] 11         
+Distance [18,22] 9.96       
+Distance [18,23] 8.5        
+Distance [18,24] 38.83      
+Distance [18,25] 74.53      
+Distance [19,1] 10.3       
+Distance [19,2] 13.15      
+Distance [19,3] 40.31      
+Distance [19,4] 72.24      
+Distance [19,5] 21.1       
+Distance [19,6] 18.36      
+Distance [19,7] 29.83      
+Distance [19,8] 57.2       
+Distance [19,9] 47.63      
+Distance [19,10] 17.46      
+Distance [19,11] 6.71       
+Distance [19,12] 7.62       
+Distance [19,13] 12.53      
+Distance [19,14] 8.06       
+Distance [19,15] 3.61       
+Distance [19,16] 9.22       
+Distance [19,17] 18.79      
+Distance [19,18] 26.48      
+Distance [19,19] 39.22      
+Distance [19,20] 58.6       
+Distance [19,21] 12.04      
+Distance [19,22] 10.69      
+Distance [19,23] 9.01       
+Distance [19,24] 38.6       
+Distance [19,25] 75.31      
+Distance [20,1] 7.62       
+Distance [20,2] 21.47      
+Distance [20,3] 53.15      
+Distance [20,4] 85.62      
+Distance [20,5] 12.04      
+Distance [20,6] 10.44      
+Distance [20,7] 18.38      
+Distance [20,8] 70.46      
+Distance [20,9] 60.8       
+Distance [20,10] 5.39       
+Distance [20,11] 19.21      
+Distance [20,12] 5.83       
+Distance [20,13] 12.04      
+Distance [20,14] 11.18      
+Distance [20,15] 14.32      
+Distance [20,16] 10.44      
+Distance [20,17] 29.07      
+Distance [20,18] 14.04      
+Distance [20,19] 25.96      
+Distance [20,20] 45.45      
+Distance [20,21] 14.32      
+Distance [20,22] 10.97      
+Distance [20,23] 9.34       
+Distance [20,24] 25.5       
+Distance [20,25] 88.29      
+Distance [21,1] 13         
+Distance [21,2] 22.67      
+Distance [21,3] 55.8       
+Distance [21,4] 89.54      
+Distance [21,5] 15.23      
+Distance [21,6] 14.42      
+Distance [21,7] 19.1       
+Distance [21,8] 73.57      
+Distance [21,9] 63.81      
+Distance [21,10] 0          
+Distance [21,11] 22.36      
+Distance [21,12] 10.05      
+Distance [21,13] 11.66      
+Distance [21,14] 16.49      
+Distance [21,15] 19.03      
+Distance [21,16] 15.81      
+Distance [21,17] 34.23      
+Distance [21,18] 9.06       
+Distance [21,19] 21.93      
+Distance [21,20] 43.14      
+Distance [21,21] 19.7       
+Distance [21,22] 16.35      
+Distance [21,23] 14.71      
+Distance [21,24] 23.6       
+Distance [21,25] 92.76      
+Distance [22,1] 16.28      
+Distance [22,2] 14.21      
+Distance [22,3] 34.21      
+Distance [22,4] 65         
+Distance [22,5] 26.91      
+Distance [22,6] 24.08      
+Distance [22,7] 36.07      
+Distance [22,8] 50.45      
+Distance [22,9] 41.04      
+Distance [22,10] 24.74      
+Distance [22,11] 5.66       
+Distance [22,12] 14.87      
+Distance [22,13] 18.44      
+Distance [22,14] 12.81      
+Distance [22,15] 7.07       
+Distance [22,16] 14.21      
+Distance [22,17] 14.14      
+Distance [22,18] 33.73      
+Distance [22,19] 46.49      
+Distance [22,20] 65.46      
+Distance [22,21] 15.23      
+Distance [22,22] 15.4       
+Distance [22,23] 14.5       
+Distance [22,24] 45.49      
+Distance [22,25] 68.07      
+Distance [23,1] 12.04      
+Distance [23,2] 22.85      
+Distance [23,3] 42.54      
+Distance [23,4] 69.46      
+Distance [23,5] 20.59      
+Distance [23,6] 17.89      
+Distance [23,7] 30.02      
+Distance [23,8] 57.31      
+Distance [23,9] 48.41      
+Distance [23,10] 24.33      
+Distance [23,11] 14.56      
+Distance [23,12] 14.87      
+Distance [23,13] 22.8       
+Distance [23,14] 8          
+Distance [23,15] 7.07       
+Distance [23,16] 9.06       
+Distance [23,17] 10         
+Distance [23,18] 33.14      
+Distance [23,19] 44.28      
+Distance [23,20] 60.37      
+Distance [23,21] 7.21       
+Distance [23,22] 9.34       
+Distance [23,23] 10.01      
+Distance [23,24] 40.85      
+Distance [23,25] 70.52      
+Distance [24,1] 3          
+Distance [24,2] 22         
+Distance [24,3] 48.41      
+Distance [24,4] 77.83      
+Distance [24,5] 12.73      
+Distance [24,6] 9.9        
+Distance [24,7] 22.02      
+Distance [24,8] 64.44      
+Distance [24,9] 55.15      
+Distance [24,10] 15.81      
+Distance [24,11] 15.81      
+Distance [24,12] 7.81       
+Distance [24,13] 17.49      
+Distance [24,14] 1.41       
+Distance [24,15] 7.21       
+Distance [24,16] 0          
+Distance [24,17] 19.03      
+Distance [24,18] 24.33      
+Distance [24,19] 35.23      
+Distance [24,20] 51.97      
+Distance [24,21] 4.24       
+Distance [24,22] 1.5        
+Distance [24,23] 1.12       
+Distance [24,24] 32.2       
+Distance [24,25] 79.4       
+Distance [25,1] 25.32      
+Distance [25,2] 28.43      
+Distance [25,3] 34.93      
+Distance [25,4] 56.86      
+Distance [25,5] 33.62      
+Distance [25,6] 31.02      
+Distance [25,7] 42.95      
+Distance [25,8] 46.87      
+Distance [25,9] 38.91      
+Distance [25,10] 37.01      
+Distance [25,11] 20.25      
+Distance [25,12] 27.07      
+Distance [25,13] 32.89      
+Distance [25,14] 21.21      
+Distance [25,15] 18.11      
+Distance [25,16] 22.36      
+Distance [25,17] 4.24       
+Distance [25,18] 46         
+Distance [25,19] 57.56      
+Distance [25,20] 73.41      
+Distance [25,21] 20.25      
+Distance [25,22] 22.68      
+Distance [25,23] 23.26      
+Distance [25,24] 54.08      
+Distance [25,25] 57.25      
+Distance [26,1] 18         
+Distance [26,2] 26.63      
+Distance [26,3] 40.85      
+Distance [26,4] 64.9       
+Distance [26,5] 25.63      
+Distance [26,6] 23.09      
+Distance [26,7] 34.93      
+Distance [26,8] 54.2       
+Distance [26,9] 45.79      
+Distance [26,10] 30.41      
+Distance [26,11] 18.03      
+Distance [26,12] 20.88      
+Distance [26,13] 28.3       
+Distance [26,14] 14.04      
+Distance [26,15] 12.53      
+Distance [26,16] 15         
+Distance [26,17] 4.12       
+Distance [26,18] 39.2       
+Distance [26,19] 50.16      
+Distance [26,20] 65.39      
+Distance [26,21] 12.37      
+Distance [26,22] 15.07      
+Distance [26,23] 16.01      
+Distance [26,24] 46.17      
+Distance [26,25] 65.19      
+Distance [27,1] 17.49      
+Distance [27,2] 17.69      
+Distance [27,3] 34.13      
+Distance [27,4] 63.07      
+Distance [27,5] 27.66      
+Distance [27,6] 24.84      
+Distance [27,7] 37.01      
+Distance [27,8] 49.52      
+Distance [27,9] 40.36      
+Distance [27,10] 27.29      
+Distance [27,11] 9.22       
+Distance [27,12] 17.26      
+Distance [27,13] 21.84      
+Distance [27,14] 13.6       
+Distance [27,15] 8.54       
+Distance [27,16] 15         
+Distance [27,17] 10.63      
+Distance [27,18] 36.35      
+Distance [27,19] 48.76      
+Distance [27,20] 66.89      
+Distance [27,21] 15         
+Distance [27,22] 15.95      
+Distance [27,23] 15.53      
+Distance [27,24] 47.01      
+Distance [27,25] 65.51      
+Distance [28,1] 26.08      
+Distance [28,2] 33.24      
+Distance [28,3] 40.61      
+Distance [28,4] 59.67      
+Distance [28,5] 32.76      
+Distance [28,6] 30.41      
+Distance [28,7] 41.76      
+Distance [28,8] 51.48      
+Distance [28,9] 44.01      
+Distance [28,10] 38.64      
+Distance [28,11] 24.76      
+Distance [28,12] 29.12      
+Distance [28,13] 36.24      
+Distance [28,14] 22.2       
+Distance [28,15] 20.62      
+Distance [28,16] 23.09      
+Distance [28,17] 5          
+Distance [28,18] 47.38      
+Distance [28,19] 58.03      
+Distance [28,20] 72.11      
+Distance [28,21] 20.02      
+Distance [28,22] 23.01      
+Distance [28,23] 24.13      
+Distance [28,24] 53.37      
+Distance [28,25] 58.6       
+Distance [29,1] 18.25      
+Distance [29,2] 29.15      
+Distance [29,3] 43.66      
+Distance [29,4] 66.61      
+Distance [29,5] 24.74      
+Distance [29,6] 22.36      
+Distance [29,7] 33.84      
+Distance [29,8] 56.61      
+Distance [29,9] 48.37      
+Distance [29,10] 31.05      
+Distance [29,11] 20.59      
+Distance [29,12] 21.93      
+Distance [29,13] 30         
+Distance [29,14] 14.56      
+Distance [29,15] 14.21      
+Distance [29,16] 15.3       
+Distance [29,17] 5.66       
+Distance [29,18] 39.62      
+Distance [29,19] 50.01      
+Distance [29,20] 64.26      
+Distance [29,21] 12         
+Distance [29,22] 15.07      
+Distance [29,23] 16.38      
+Distance [29,24] 45.35      
+Distance [29,25] 66.31      
+Distance [30,1] 14.32      
+Distance [30,2] 27.31      
+Distance [30,3] 45.19      
+Distance [30,4] 69.89      
+Distance [30,5] 20.88      
+Distance [30,6] 18.44      
+Distance [30,7] 30.08      
+Distance [30,8] 59.03      
+Distance [30,9] 50.48      
+Distance [30,10] 27.2       
+Distance [30,11] 18.97      
+Distance [30,12] 18.36      
+Distance [30,13] 26.91      
+Distance [30,14] 10.77      
+Distance [30,15] 11.4       
+Distance [30,16] 11.4       
+Distance [30,17] 8.94       
+Distance [30,18] 35.69      
+Distance [30,19] 46.01      
+Distance [30,20] 60.54      
+Distance [30,21] 8          
+Distance [30,22] 11.1       
+Distance [30,23] 12.5       
+Distance [30,24] 41.48      
+Distance [30,25] 70.01      
+Distance [31,1] 38.01      
+Distance [31,2] 47.01      
+Distance [31,3] 81.01      
+Distance [31,4] 116.06     
+Distance [31,5] 32.98      
+Distance [31,6] 34.53      
+Distance [31,7] 27.29      
+Distance [31,8] 99.28      
+Distance [31,9] 89.44      
+Distance [31,10] 26.68      
+Distance [31,11] 48.7       
+Distance [31,12] 36.67      
+Distance [31,13] 35.78      
+Distance [31,14] 42.05      
+Distance [31,15] 45.54      
+Distance [31,16] 41.01      
+Distance [31,17] 60.03      
+Distance [31,18] 17.72      
+Distance [31,19] 6.71       
+Distance [31,20] 25.32      
+Distance [31,21] 44.05      
+Distance [31,22] 41         
+Distance [31,23] 40.03      
+Distance [31,24] 17.69      
+Distance [31,25] 119.44     
+Distance [32,1] 21.38      
+Distance [32,2] 30         
+Distance [32,3] 63.81      
+Distance [32,4] 98.35      
+Distance [32,5] 19.85      
+Distance [32,6] 20.25      
+Distance [32,7] 19.31      
+Distance [32,8] 81.88      
+Distance [32,9] 72.07      
+Distance [32,10] 9.06       
+Distance [32,11] 31.02      
+Distance [32,12] 19.1       
+Distance [32,13] 18.6       
+Distance [32,14] 25.18      
+Distance [32,15] 28.07      
+Distance [32,16] 24.33      
+Distance [32,17] 43.1       
+Distance [32,18] 0          
+Distance [32,19] 13.6       
+Distance [32,20] 36.62      
+Distance [32,21] 27.89      
+Distance [32,22] 24.62      
+Distance [32,23] 23.26      
+Distance [32,24] 18.68      
+Distance [32,25] 101.79     
+Distance [33,1] 32.25      
+Distance [33,2] 43.6       
+Distance [33,3] 77.39      
+Distance [33,4] 111.43     
+Distance [33,5] 26.48      
+Distance [33,6] 28.16      
+Distance [33,7] 20.59      
+Distance [33,8] 95.38      
+Distance [33,9] 85.59      
+Distance [33,10] 21.93      
+Distance [33,11] 44.28      
+Distance [33,12] 31.62      
+Distance [33,13] 32.2       
+Distance [33,14] 36.35      
+Distance [33,15] 40.26      
+Distance [33,16] 35.23      
+Distance [33,17] 54.23      
+Distance [33,18] 13.6       
+Distance [33,19] 0          
+Distance [33,20] 24.17      
+Distance [33,21] 38.01      
+Distance [33,22] 35.09      
+Distance [33,23] 34.3       
+Distance [33,24] 11.66      
+Distance [33,25] 114.24     
+Distance [34,1] 35.69      
+Distance [34,2] 47.8       
+Distance [34,3] 81.54      
+Distance [34,4] 115.32     
+Distance [34,5] 29.07      
+Distance [34,6] 31         
+Distance [34,7] 22.14      
+Distance [34,8] 99.48      
+Distance [34,9] 89.69      
+Distance [34,10] 25.94      
+Distance [34,11] 48.3       
+Distance [34,12] 35.47      
+Distance [34,13] 36.4       
+Distance [34,14] 39.81      
+Distance [34,15] 43.97      
+Distance [34,16] 38.64      
+Distance [34,17] 57.56      
+Distance [34,18] 17.8       
+Distance [34,19] 4.24       
+Distance [34,20] 20.25      
+Distance [34,21] 41.19      
+Distance [34,22] 38.4       
+Distance [34,23] 37.75      
+Distance [34,24] 11.4       
+Distance [34,25] 117.88     
+Distance [35,1] 44.05      
+Distance [35,2] 62.2       
+Distance [35,3] 94.05      
+Distance [35,4] 123.82     
+Distance [35,5] 33.84      
+Distance [35,6] 36.62      
+Distance [35,7] 24.41      
+Distance [35,8] 110.75     
+Distance [35,9] 101.32     
+Distance [35,10] 39.66      
+Distance [35,11] 60.11      
+Distance [35,12] 46.69      
+Distance [35,13] 51.31      
+Distance [35,14] 47.8       
+Distance [35,15] 53.26      
+Distance [35,16] 46.4       
+Distance [35,17] 63.06      
+Distance [35,18] 34.54      
+Distance [35,19] 24.08      
+Distance [35,20] 8.25       
+Distance [35,21] 47.17      
+Distance [35,22] 45.51      
+Distance [35,23] 45.92      
+Distance [35,24] 16.12      
+Distance [35,25] 123.98     
+Distance [36,1] 49.4       
+Distance [36,2] 65.8       
+Distance [36,3] 98.6       
+Distance [36,4] 129.77     
+Distance [36,5] 39.81      
+Distance [36,6] 42.49      
+Distance [36,7] 30.46      
+Distance [36,8] 115.8      
+Distance [36,9] 106.21     
+Distance [36,10] 43.14      
+Distance [36,11] 64.66      
+Distance [36,12] 51.22      
+Distance [36,13] 54.56      
+Distance [36,14] 53.34      
+Distance [36,15] 58.52      
+Distance [36,16] 51.97      
+Distance [36,17] 69.46      
+Distance [36,18] 36.62      
+Distance [36,19] 24.17      
+Distance [36,20] 0          
+Distance [36,21] 53.23      
+Distance [36,22] 51.24      
+Distance [36,23] 51.36      
+Distance [36,24] 20         
+Distance [36,25] 130.55     
+Distance [37,1] 4.12       
+Distance [37,2] 23.02      
+Distance [37,3] 48.6       
+Distance [37,4] 77.41      
+Distance [37,5] 12.81      
+Distance [37,6] 10         
+Distance [37,7] 22.2       
+Distance [37,8] 64.38      
+Distance [37,9] 55.17      
+Distance [37,10] 17.09      
+Distance [37,11] 16.49      
+Distance [37,12] 9.22       
+Distance [37,13] 18.87      
+Distance [37,14] 2          
+Distance [37,15] 7.62       
+Distance [37,16] 1.41       
+Distance [37,17] 18.11      
+Distance [37,18] 25.5       
+Distance [37,19] 36.12      
+Distance [37,20] 52.35      
+Distance [37,21] 2.83       
+Distance [37,22] 1.12       
+Distance [37,23] 2.5        
+Distance [37,24] 32.7       
+Distance [37,25] 78.75      
+Distance [38,1] 6.71       
+Distance [38,2] 25.18      
+Distance [38,3] 49.09      
+Distance [38,4] 76.66      
+Distance [38,5] 13.42      
+Distance [38,6] 10.77      
+Distance [38,7] 22.83      
+Distance [38,8] 64.35      
+Distance [38,9] 55.32      
+Distance [38,10] 19.7       
+Distance [38,11] 18.11      
+Distance [38,12] 12.04      
+Distance [38,13] 21.63      
+Distance [38,14] 4.47       
+Distance [38,15] 9.06       
+Distance [38,16] 4.24       
+Distance [38,17] 16.49      
+Distance [38,18] 27.89      
+Distance [38,19] 38.01      
+Distance [38,20] 53.23      
+Distance [38,21] 0          
+Distance [38,22] 3.35       
+Distance [38,23] 5.32       
+Distance [38,24] 33.84      
+Distance [38,25] 77.49      
+Distance [39,1] 39.82      
+Distance [39,2] 55.9       
+Distance [39,3] 88.73      
+Distance [39,4] 120.31     
+Distance [39,5] 30.68      
+Distance [39,6] 33.24      
+Distance [39,7] 21.59      
+Distance [39,8] 106.02     
+Distance [39,9] 96.4       
+Distance [39,10] 33.24      
+Distance [39,11] 54.82      
+Distance [39,12] 41.4       
+Distance [39,13] 44.69      
+Distance [39,14] 43.83      
+Distance [39,15] 48.88      
+Distance [39,16] 42.49      
+Distance [39,17] 60.41      
+Distance [39,18] 26.93      
+Distance [39,19] 15.3       
+Distance [39,20] 9.9        
+Distance [39,21] 44.01      
+Distance [39,22] 41.84      
+Distance [39,23] 41.82      
+Distance [39,24] 10.3       
+Distance [39,25] 121.49     
+Distance [40,1] 33.62      
+Distance [40,2] 50.45      
+Distance [40,3] 82.88      
+Distance [40,4] 114.06     
+Distance [40,5] 24.35      
+Distance [40,6] 26.93      
+Distance [40,7] 15.3       
+Distance [40,8] 100        
+Distance [40,9] 90.43      
+Distance [40,10] 27.8       
+Distance [40,11] 48.92      
+Distance [40,12] 35.47      
+Distance [40,13] 39.41      
+Distance [40,14] 37.59      
+Distance [40,15] 42.72      
+Distance [40,16] 36.24      
+Distance [40,17] 54.08      
+Distance [40,18] 22.47      
+Distance [40,19] 13.34      
+Distance [40,20] 15.81      
+Distance [40,21] 37.7       
+Distance [40,22] 35.56      
+Distance [40,23] 35.6       
+Distance [40,24] 4.24       
+Distance [40,25] 115.17     
+Distance [41,1] 27.2       
+Distance [41,2] 45.49      
+Distance [41,3] 77.08      
+Distance [41,4] 107.42     
+Distance [41,5] 17.46      
+Distance [41,6] 20.12      
+Distance [41,7] 8.25       
+Distance [41,8] 93.86      
+Distance [41,9] 84.39      
+Distance [41,10] 23.26      
+Distance [41,11] 43.14      
+Distance [41,12] 29.73      
+Distance [41,13] 34.89      
+Distance [41,14] 31.06      
+Distance [41,15] 36.4       
+Distance [41,16] 29.68      
+Distance [41,17] 47.17      
+Distance [41,18] 20.02      
+Distance [41,19] 15.62      
+Distance [41,20] 22.36      
+Distance [41,21] 30.87      
+Distance [41,22] 28.9       
+Distance [41,23] 29.12      
+Distance [41,24] 4.47       
+Distance [41,25] 108.27     
+Distance [42,1] 82.28      
+Distance [42,2] 76.01      
+Distance [42,3] 48.38      
+Distance [42,4] 14.76      
+Distance [42,5] 90.82      
+Distance [42,6] 88.26      
+Distance [42,7] 100.09     
+Distance [42,8] 34.41      
+Distance [42,9] 40.31      
+Distance [42,10] 92.76      
+Distance [42,11] 71.45      
+Distance [42,12] 82.76      
+Distance [42,13] 85.38      
+Distance [42,14] 78.16      
+Distance [42,15] 73.98      
+Distance [42,16] 79.4       
+Distance [42,17] 61.1       
+Distance [42,18] 101.79     
+Distance [42,19] 114.24     
+Distance [42,20] 130.55     
+Distance [42,21] 77.49      
+Distance [42,22] 79.85      
+Distance [42,23] 80.22      
+Distance [42,24] 111.33     
+Distance [42,25] 0          
+Distance [43,1] 17.69      
+Distance [43,2] 18.87      
+Distance [43,3] 52.84      
+Distance [43,4] 88.32      
+Distance [43,5] 22.14      
+Distance [43,6] 21.02      
+Distance [43,7] 26.02      
+Distance [43,8] 71.11      
+Distance [43,9] 61.27      
+Distance [43,10] 7.07       
+Distance [43,11] 21.21      
+Distance [43,12] 12.53      
+Distance [43,13] 7.62       
+Distance [43,14] 20.25      
+Distance [43,15] 20.88      
+Distance [43,16] 20         
+Distance [43,17] 36.69      
+Distance [43,18] 11.31      
+Distance [43,19] 24.84      
+Distance [43,20] 47.8       
+Distance [43,21] 24.21      
+Distance [43,22] 20.93      
+Distance [43,23] 18.9       
+Distance [43,24] 29.07      
+Distance [43,25] 92.66      
+Distance [44,1] 11.66      
+Distance [44,2] 30.87      
+Distance [44,3] 61.52      
+Distance [44,4] 92.13      
+Distance [44,5] 5          
+Distance [44,6] 6.08       
+Distance [44,7] 8.94       
+Distance [44,8] 78.24      
+Distance [44,9] 68.77      
+Distance [44,10] 11.18      
+Distance [44,11] 27.66      
+Distance [44,12] 14.42      
+Distance [44,13] 21.38      
+Distance [44,14] 15.65      
+Distance [44,15] 20.81      
+Distance [44,16] 14.32      
+Distance [44,17] 32.76      
+Distance [44,18] 14.87      
+Distance [44,19] 22.09      
+Distance [44,20] 37.74      
+Distance [44,21] 16.28      
+Distance [44,22] 13.76      
+Distance [44,23] 13.65      
+Distance [44,24] 17.89      
+Distance [44,25] 93.61      
+Distance [45,1] 6.32       
+Distance [45,2] 28.02      
+Distance [45,3] 53.82      
+Distance [45,4] 81.63      
+Distance [45,5] 8.54       
+Distance [45,6] 6.08       
+Distance [45,7] 17.89      
+Distance [45,8] 69.3       
+Distance [45,9] 60.21      
+Distance [45,10] 17.8       
+Distance [45,11] 21.84      
+Distance [45,12] 12.65      
+Distance [45,13] 22.47      
+Distance [45,14] 7.28       
+Distance [45,15] 13         
+Distance [45,16] 6.08       
+Distance [45,17] 21.19      
+Distance [45,18] 25.08      
+Distance [45,19] 34.06      
+Distance [45,20] 48.33      
+Distance [45,21] 5          
+Distance [45,22] 4.61       
+Distance [45,23] 6.5        
+Distance [45,24] 29.12      
+Distance [45,25] 82.28      
+Distance [46,1] 10.82      
+Distance [46,2] 32.28      
+Distance [46,3] 61.07      
+Distance [46,4] 90.05      
+Distance [46,5] 0          
+Distance [46,6] 2.83       
+Distance [46,7] 9.43       
+Distance [46,8] 77.16      
+Distance [46,9] 67.88      
+Distance [46,10] 15.23      
+Distance [46,11] 27.78      
+Distance [46,12] 15.52      
+Distance [46,13] 24         
+Distance [46,14] 14.14      
+Distance [46,15] 19.85      
+Distance [46,16] 12.73      
+Distance [46,17] 29.73      
+Distance [46,18] 19.85      
+Distance [46,19] 26.48      
+Distance [46,20] 39.81      
+Distance [46,21] 13.42      
+Distance [46,22] 11.72      
+Distance [46,23] 12.42      
+Distance [46,24] 20.62      
+Distance [46,25] 90.82      
+Distance [47,1] 3.61       
+Distance [47,2] 25.5       
+Distance [47,3] 53.91      
+Distance [47,4] 83.65      
+Distance [47,5] 7.21       
+Distance [47,6] 4.47       
+Distance [47,7] 16.28      
+Distance [47,8] 70.18      
+Distance [47,9] 60.83      
+Distance [47,10] 12.81      
+Distance [47,11] 20.59      
+Distance [47,12] 9          
+Distance [47,13] 18.44      
+Distance [47,14] 7.21       
+Distance [47,15] 12.73      
+Distance [47,16] 5.83       
+Distance [47,17] 24.33      
+Distance [47,18] 20.25      
+Distance [47,19] 30.02      
+Distance [47,20] 46.14      
+Distance [47,21] 8          
+Distance [47,22] 5.22       
+Distance [47,23] 5.32       
+Distance [47,24] 26.4       
+Distance [47,25] 85.07
