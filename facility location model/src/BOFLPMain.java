@@ -2,9 +2,12 @@ import edu.uniandes.copa.jga.*;
 import edu.uniandes.copa.mojga.nsga2.*;
 import java.util.ArrayList;
 
+import processing.core.PApplet;
+
 import nl.tudelft.simulation.dsol.animation.D2.GisRenderable2D;
 import nl.tudelft.simulation.language.io.URLResource;
 import edu.uniandes.copa.ioutils.*;
+import gui.GreatCircleConnectionApp;
 
 /**
  * Application for solving a Bi-criteria Capacitated Facility Location Problem
@@ -28,6 +31,7 @@ public class BOFLPMain
      */
     public static void main(String args[])
     {
+    	
 //    	 new GisRenderable2D(simulator, URLResource
 //    				.getResource("/models/maps/" + backgroundName
 //    						+ ".map.xml"));
@@ -38,6 +42,13 @@ public class BOFLPMain
         int numReplicates = 1;
 
         boolean single = true;
+        
+        GreatCircleConnectionApp map =new GreatCircleConnectionApp();
+        
+        map.setup();
+        map.draw();
+        
+     
 
         if (args.length == 2)
         {

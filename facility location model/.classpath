@@ -13,5 +13,14 @@
 	<classpathentry kind="lib" path="C:/Users/rahalim/PhD_workspace/git/nl.tudelft.facilitylocationmodel/facility location model/lib/j3dcore.jar"/>
 	<classpathentry kind="lib" path="C:/Users/rahalim/PhD_workspace/git/nl.tudelft.facilitylocationmodel/facility location model/lib/j3dutils.jar"/>
 	<classpathentry kind="lib" path="C:/Users/rahalim/PhD_workspace/git/nl.tudelft.facilitylocationmodel/facility location model/lib/vecmath.jar"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/unfolding"/>
+	<classpathentry kind="lib" path="C:/Users/rahalim/PhD_workspace/unfolding/lib/core.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rahalim/PhD_workspace/unfolding/lib/glgraphics.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rahalim/PhD_workspace/unfolding/lib/gluegen-rt.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rahalim/PhD_workspace/unfolding/lib/jogl.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rahalim/PhD_workspace/unfolding/lib/libTUIO.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rahalim/PhD_workspace/unfolding/lib/log4j-1.2.15.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rahalim/PhD_workspace/unfolding/lib/opengl.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rahalim/PhD_workspace/unfolding/lib/sqlitejdbc-v056.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
