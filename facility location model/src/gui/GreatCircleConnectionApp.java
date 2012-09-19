@@ -27,7 +27,6 @@ public class GreatCircleConnectionApp extends PApplet {
 
 	public void setup() {
 		size(800, 600, GLConstants.GLGRAPHICS);
-
 		map = new Map(this);
 		MapUtils.createDefaultEventDispatcher(this, map);
 	}

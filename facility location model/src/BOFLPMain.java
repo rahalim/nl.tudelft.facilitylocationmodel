@@ -1,3 +1,4 @@
+import de.fhpotsdam.unfolding.examples.GreatCircleConnectionApp;
 import edu.uniandes.copa.jga.*;
 import edu.uniandes.copa.mojga.nsga2.*;
 import java.util.ArrayList;
@@ -7,7 +8,6 @@ import processing.core.PApplet;
 import nl.tudelft.simulation.dsol.animation.D2.GisRenderable2D;
 import nl.tudelft.simulation.language.io.URLResource;
 import edu.uniandes.copa.ioutils.*;
-import gui.GreatCircleConnectionApp;
 
 /**
  * Application for solving a Bi-criteria Capacitated Facility Location Problem
@@ -43,12 +43,8 @@ public class BOFLPMain
 
         boolean single = true;
         
+        PApplet.main(new String[] { "--present", "de.fhpotsdam.unfolding.examples.GreatCircleConnectionApp" });
         GreatCircleConnectionApp map =new GreatCircleConnectionApp();
-        
-        map.setup();
-        map.draw();
-        
-     
 
         if (args.length == 2)
         {
