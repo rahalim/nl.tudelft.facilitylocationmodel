@@ -8,6 +8,7 @@ import processing.core.PApplet;
 import nl.tudelft.simulation.dsol.animation.D2.GisRenderable2D;
 import nl.tudelft.simulation.language.io.URLResource;
 import edu.uniandes.copa.ioutils.*;
+import graph.BezierFrame;
 
 /**
  * Application for solving a Bi-criteria Capacitated Facility Location Problem
@@ -43,8 +44,10 @@ public class BOFLPMain
 
         boolean single = true;
         
-        PApplet.main(new String[] { "--present", "de.fhpotsdam.unfolding.examples.GreatCircleConnectionApp" });
-        GreatCircleConnectionApp map =new GreatCircleConnectionApp();
+//        PApplet.main(new String[] { "--present", "de.fhpotsdam.unfolding.examples.GreatCircleConnectionApp" });
+//        GreatCircleConnectionApp map =new GreatCircleConnectionApp();
+        
+        BezierFrame bezierFrame = new BezierFrame();
 
         if (args.length == 2)
         {
