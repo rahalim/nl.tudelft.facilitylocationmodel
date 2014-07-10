@@ -3,17 +3,13 @@
  (Capacitated and Uncapacitated) Facility Location Problems.
  Version: 1.0
 ------------------------------------------------------------------------------
- Author:       Andres L. Medaglia (amedagli@uniandes.edu.co)
-               Departamento de Ingeniería Industrial
-               Universidad de los Andes
- URL:          http://wwwprof.uniandes.edu.co/~amedagli
- e-mail:       andres.medaglia@acm.org
+ Author:       Ronald Apriliyanto Halim 
+               Transport and Logistics group
+               Delft University of Technology
+ URL:          http://www.tbm.tudelft.nl/en/about-faculty/departments/engineering-systems-and-services/tlo-section/staff/ronald-apriliyanto-halim/ronald-apriliyanto-halim/
+ e-mail:       r.a.halim@tudelft.nl
 
- Author:       Eliecer Gutierrez (egutierr@uniandes.edu.co)
-               Departamento de Ingeniería Industrial
-               Universidad de los Andes
- e-mail:       egutierr@uniandes.edu.co
-------------------------------------------------------------------------------
+--------------------------------------
 
 0. What is MO-JGA?
    MO-JGA stands for Multi-Objective Java Genetic Algorithms. The purpose of MO-JGA is to 
@@ -34,12 +30,6 @@
 
    This project illustrates the use of MO-JGA for solving a BiObjective Capacitated (and Uncapacitated) 
    Facility Location Problem (BOCFLP) using the Colombian National Coffee Growers Federation study case. 
-   For more information on this case, the user is referred to:
-
-
-   Medaglia, A. L., Gutiérrez, E., and Villegas, J.G. Solving Facility Location Problems using a Tool for Rapid Development
-   of Multi-Objective Evolutionary Algorithms (MOEAs). In Handbook of Research on Nature Inspired Computing for Economics 
-   and Management. Jean-Phillipe Rennard (Ed.), 2006. 
    
       
    The project includes the following directories:
@@ -49,7 +39,7 @@
       /data/pFNC Directory including the data for the FNC case *
       /bin       Directory including the binary class files (.class files)
 
-      * in Spanish, FNC corresponds to "Federación Nacional de Cafeteros"
+     
    
       
    Also, the project includes the following single files in the directory root:
@@ -65,7 +55,7 @@
    
 3. Running the BOCFLP problem
 
-   You have two options to run the BOCFLP implementation using the FNC´s data.
+   You have two options to run the BOCFLP implementation using the FNCï¿½s data.
    
    1. Make a project (e.g., an Eclipse project) using the content of the BOCFLP directory (compressed file)
       and run it using the Eclipse menus.
@@ -121,13 +111,13 @@
    
 6. Additional references
 
-   Medaglia, A. L., Gutiérrez, E., and Villegas, J.G. Solving Facility Location Problems using a Tool for Rapid Development
+   Medaglia, A. L., Gutiï¿½rrez, E., and Villegas, J.G. Solving Facility Location Problems using a Tool for Rapid Development
    of Multi-Objective Evolutionary Algorithms (MOEAs). In Handbook of Research on Nature Inspired Computing for Economics 
    and Management. Jean-Phillipe Rennard (Ed.), 2006.
    
 ------------------------------------------------------------------------
 First created: November 10th, 2004
-Last updated : June 2nd, 2006
+Last updated : June 2nd, 2012
 ------------------------------------------------------------------------
 
    
